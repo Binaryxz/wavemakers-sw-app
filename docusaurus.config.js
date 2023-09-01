@@ -63,7 +63,7 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "path": "../versioned_docs/version-v10.14,
+          "path": "../versioned_docs/version-v10.14",
           "routeBasePath": "/",
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
