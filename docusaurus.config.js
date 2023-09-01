@@ -68,7 +68,7 @@ module.exports = {
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
           "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/",
-          "sidebarPath": "sidebars.json",
+          "sidebarPath": "../sidebars.json",
           "lastVersion": 'current',
           "versions": {
             "current": {
