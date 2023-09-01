@@ -63,12 +63,12 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "path": "../versioned_docs/version-v10.14",
+          "path": "versioned_docs/version-v10.14",
           "routeBasePath": "/",
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
           "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/",
-          "sidebarPath": "../sidebars.json",
+          "sidebarPath": "sidebars.json",
           "lastVersion": 'current',
           "versions": {
             "current": {
@@ -82,12 +82,12 @@ module.exports = {
           },
         },
         "blog": {
-          "path": "../blog/",
+          "path": "blog/",
           "blogSidebarTitle": 'All posts',
           "blogSidebarCount": 'ALL',
         },
         "theme": {
-          "customCss": "../static/css/custom.css"
+          "customCss": "static/css/custom.css"
         }
       }
     ]
