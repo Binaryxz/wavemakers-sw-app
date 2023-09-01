@@ -14,9 +14,9 @@ module.exports = {
   "scripts": [
     "https://buttons.github.io/buttons.js",
     "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
-    "/learn/js/code-block-buttons.js",
-    "/learn/js/error-reporting.js",
-    "/learn/js/inject-stylesheets.js",
+    "/versioned_docs/version-v10.14/js/code-block-buttons.js",
+    "versioned_docs/version-v10.14/js/error-reporting.js",
+    "/versioned_docs/version-v10.14/js/inject-stylesheets.js",
     {
       src: 'https://app.happyreact.com/widget/reactions.js',
       defer: true,
@@ -114,13 +114,13 @@ module.exports = {
         },
         {
           "type": "doc",
-          "docId": "app-development/widgets/widget-library",
+          "docId": "versioned_docs/version-v10.14/app-development/widgets/widget-library",
           "label": "Widgets",
           "position": "left"
         },
         {
           "type": "doc",
-          "docId": "howtos-documents",
+          "docId": "versioned_docs/version-v10.14/howtos-documents",
           "label": "How-to",
           "position": "left"
         },
@@ -136,7 +136,7 @@ module.exports = {
         },
         {
           "type": "doc",
-          "docId": "wavemaker-release-notes",
+          "docId": "versioned_docs/version-v10.14/wavemaker-release-notes",
           "label": "Releases",
           "position": "right"
         },
