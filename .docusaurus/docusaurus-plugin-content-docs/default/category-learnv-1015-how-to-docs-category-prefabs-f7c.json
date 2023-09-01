@@ -1,0 +1,15 @@
+{
+  "title": "Prefabs",
+  "slug": "/category/prefabs",
+  "permalink": "/learn/v10.15/category/prefabs",
+  "navigation": {
+    "previous": {
+      "title": "Tree using Dynamic Tree",
+      "permalink": "/learn/v10.15/how-tos/tree-use-case-dynamic-tree"
+    },
+    "next": {
+      "title": "Create a Simple Prefab",
+      "permalink": "/learn/v10.15/how-tos/create-simple-prefab"
+    }
+  }
+}

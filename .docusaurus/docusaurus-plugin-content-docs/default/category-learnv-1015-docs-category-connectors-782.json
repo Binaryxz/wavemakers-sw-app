@@ -1,0 +1,15 @@
+{
+  "title": "Connectors",
+  "slug": "/category/connectors",
+  "permalink": "/learn/v10.15/category/connectors",
+  "navigation": {
+    "previous": {
+      "title": "Switching between Offline and Online Mode",
+      "permalink": "/learn/v10.15/hybrid-mobile/switching-offline-online-mode"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/learn/v10.15/connectors/connectors-introduction"
+    }
+  }
+}

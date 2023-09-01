@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/services/mock-services/mock-imported-apis",
+  "id": "app-development/services/mock-services/mock-imported-apis",
+  "title": "MockingBird - Mock REST APIs",
+  "description": "---",
+  "source": "@site/../learn/app-development/services/mock-services/mock-imported-apis.md",
+  "sourceDirName": "app-development/services/mock-services",
+  "slug": "/app-development/services/mock-services/mock-imported-apis",
+  "permalink": "/learn/app-development/services/mock-services/mock-imported-apis",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/services/mock-services/mock-imported-apis.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "MockingBird - Mock REST APIs",
+    "id": "mock-imported-apis",
+    "sidebar_label": "Mock REST API"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "API Designer",
+    "permalink": "/learn/app-development/services/api-designer/api"
+  },
+  "next": {
+    "title": "Swagger Import",
+    "permalink": "/learn/app-development/services/api-designer/import-rest-apis-swagger"
+  }
+}

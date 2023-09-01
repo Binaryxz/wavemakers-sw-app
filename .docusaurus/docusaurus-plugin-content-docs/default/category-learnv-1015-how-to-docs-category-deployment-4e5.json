@@ -1,0 +1,15 @@
+{
+  "title": "Deployment",
+  "slug": "/category/deployment-1",
+  "permalink": "/learn/v10.15/category/deployment-1",
+  "navigation": {
+    "previous": {
+      "title": "Setup Fusion Reactor for Debugging Issues",
+      "permalink": "/learn/v10.15/how-tos/debug-monitor-performance-issues-using-fusion-reactor"
+    },
+    "next": {
+      "title": "SSL Termination in LoadBalancer",
+      "permalink": "/learn/v10.15/how-tos/ssl-offloading"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Pages",
+  "slug": "/category/pages",
+  "permalink": "/learn/v10.15/category/pages",
+  "navigation": {
+    "previous": {
+      "title": "Walkthrough",
+      "permalink": "/learn/v10.15/app-development/wavemaker-overview/product-walkthrough"
+    },
+    "next": {
+      "title": "Pages Overview",
+      "permalink": "/learn/v10.15/app-development/ui-design/designing-app"
+    }
+  }
+}

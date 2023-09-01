@@ -1,0 +1,15 @@
+{
+  "title": "Container",
+  "slug": "/category/container-1",
+  "permalink": "/learn/v10.15/category/container-1",
+  "navigation": {
+    "previous": {
+      "title": "Use Cases",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/livefilter/livefilter-use-cases"
+    },
+    "next": {
+      "title": "Grid Layout",
+      "permalink": "/learn/v10.15/app-development/widgets/container/grid-layout"
+    }
+  }
+}

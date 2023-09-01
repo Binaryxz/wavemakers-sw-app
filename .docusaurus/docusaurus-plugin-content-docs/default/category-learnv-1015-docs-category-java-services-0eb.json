@@ -1,0 +1,15 @@
+{
+  "title": "Java Services",
+  "slug": "/category/java-services",
+  "permalink": "/learn/v10.15/category/java-services",
+  "navigation": {
+    "previous": {
+      "title": "WebSocket Variable",
+      "permalink": "/learn/v10.15/app-development/variables/websocket-variable"
+    },
+    "next": {
+      "title": "Java Service",
+      "permalink": "/learn/v10.15/app-development/services/java-services/java-service"
+    }
+  }
+}

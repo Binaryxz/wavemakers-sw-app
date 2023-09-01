@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/ui-design/design-overview",
+  "id": "version-v10.14/app-development/ui-design/design-overview",
+  "title": "Page Elements",
+  "description": "Learn how to design and navigate across pages and use rich themes to your WaveMaker apps.",
+  "source": "@site/versioned_docs/version-v10.14/app-development/ui-design/design-overview.md",
+  "sourceDirName": "app-development/ui-design",
+  "slug": "/app-development/ui-design/design-overview",
+  "permalink": "/learn/v10.15/app-development/ui-design/design-overview",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/ui-design/design-overview.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Page Elements",
+    "id": "design-overview",
+    "sidebar_label": "Design Elements"
+  },
+  "sidebar": "FAQs",
+  "previous": {
+    "title": "Pages Concepts",
+    "permalink": "/learn/v10.15/app-development/ui-design/page-concepts"
+  },
+  "next": {
+    "title": "Backend Services Architecture",
+    "permalink": "/learn/v10.15/app-development/services/backend-architecture"
+  }
+}

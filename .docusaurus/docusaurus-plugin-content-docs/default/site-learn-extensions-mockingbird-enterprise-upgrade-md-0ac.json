@@ -1,0 +1,26 @@
+{
+  "unversionedId": "extensions/mockingbird/enterprise/upgrade",
+  "id": "extensions/mockingbird/enterprise/upgrade",
+  "title": "Upgrade and Rollback",
+  "description": "---",
+  "source": "@site/../learn/extensions/mockingbird/enterprise/upgrade.md",
+  "sourceDirName": "extensions/mockingbird/enterprise",
+  "slug": "/extensions/mockingbird/enterprise/upgrade",
+  "permalink": "/learn/extensions/mockingbird/enterprise/upgrade",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/extensions/mockingbird/enterprise/upgrade.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Upgrade and Rollback",
+    "id": "upgrade"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Integrate",
+    "permalink": "/learn/extensions/mockingbird/enterprise/integrate"
+  }
+}

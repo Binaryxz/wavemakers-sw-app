@@ -1,0 +1,15 @@
+{
+  "title": "Dialog Widgets",
+  "slug": "/category/dialog-widgets",
+  "permalink": "/learn/v10.15/category/dialog-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Carousel",
+      "permalink": "/learn/v10.15/app-development/widgets/advanced/carousel"
+    },
+    "next": {
+      "title": "Modal Windows/ Dialogs",
+      "permalink": "/learn/v10.15/app-development/widgets/modal-windows-dialogs"
+    }
+  }
+}

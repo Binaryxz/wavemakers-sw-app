@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/add-master-detail-records-using-data-table",
+  "id": "how-tos/add-master-detail-records-using-data-table",
+  "title": "Add Master-Detail records using Data Table",
+  "description": "Scenario: To implement CRUD operations on an Master-Detail database schema. We will be adding records in a  Master-Detail scenario using Data Table bound to Live Variable.",
+  "source": "@site/../learn/how-tos/add-master-detail-records-using-data-table.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/add-master-detail-records-using-data-table",
+  "permalink": "/learn/how-tos/add-master-detail-records-using-data-table",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/add-master-detail-records-using-data-table.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Add Master-Detail records using Data Table",
+    "id": "add-master-detail-records-using-data-table"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Submit Parent and Child Records in a Single Transaction using Form and Data Table",
+    "permalink": "/learn/how-tos/adding-parent-child-using-form-datatable"
+  },
+  "next": {
+    "title": "Export Data from Data Table",
+    "permalink": "/learn/how-tos/export-data-data-table"
+  }
+}

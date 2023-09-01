@@ -1,0 +1,15 @@
+{
+  "title": "Localization",
+  "slug": "/category/localization",
+  "permalink": "/learn/v10.15/category/localization",
+  "navigation": {
+    "previous": {
+      "title": "Localization for Dropdown Menu",
+      "permalink": "/learn/v10.15/how-tos/implementing-localization-dropdown-menu"
+    },
+    "next": {
+      "title": "Localization in WaveMaker Apps",
+      "permalink": "/learn/v10.15/how-tos/localization-wavemaker-apps"
+    }
+  }
+}

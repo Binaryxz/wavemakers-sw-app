@@ -1,0 +1,31 @@
+{
+  "unversionedId": "extensions/mockingbird/enterprise/integrate",
+  "id": "extensions/mockingbird/enterprise/integrate",
+  "title": "Integrate MockingBird with WME",
+  "description": "---",
+  "source": "@site/../learn/extensions/mockingbird/enterprise/integrate.md",
+  "sourceDirName": "extensions/mockingbird/enterprise",
+  "slug": "/extensions/mockingbird/enterprise/integrate",
+  "permalink": "/learn/extensions/mockingbird/enterprise/integrate",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/extensions/mockingbird/enterprise/integrate.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrate MockingBird with WME",
+    "id": "integrate",
+    "sidebar_label": "Integrate"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Install",
+    "permalink": "/learn/extensions/mockingbird/enterprise/install"
+  },
+  "next": {
+    "title": "Upgrade and Rollback",
+    "permalink": "/learn/extensions/mockingbird/enterprise/upgrade"
+  }
+}

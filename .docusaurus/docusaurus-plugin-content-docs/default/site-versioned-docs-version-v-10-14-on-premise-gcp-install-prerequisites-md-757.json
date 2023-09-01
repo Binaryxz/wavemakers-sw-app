@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/gcp/install-prerequisites",
+  "id": "version-v10.14/on-premise/gcp/install-prerequisites",
+  "title": "Install Prerequisites Softwares",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/gcp/install-prerequisites.md",
+  "sourceDirName": "on-premise/gcp",
+  "slug": "/on-premise/gcp/install-prerequisites",
+  "permalink": "/learn/v10.15/on-premise/gcp/install-prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/gcp/install-prerequisites.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Install Prerequisites Softwares",
+    "id": "install-prerequisites",
+    "sidebar_label": "Install Prerequisites Softwares"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Prepare Infrastructure",
+    "permalink": "/learn/v10.15/on-premise/gcp/launching-instances-in-gcp"
+  },
+  "next": {
+    "title": "Download and Copy Installer",
+    "permalink": "/learn/v10.15/on-premise/gcp/install/download-copy-installer"
+  }
+}

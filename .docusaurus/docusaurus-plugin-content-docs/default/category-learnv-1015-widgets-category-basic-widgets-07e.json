@@ -1,0 +1,15 @@
+{
+  "title": "Basic Widgets",
+  "slug": "/category/basic-widgets",
+  "permalink": "/learn/v10.15/category/basic-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Wizard",
+      "permalink": "/learn/v10.15/app-development/widgets/container/wizard"
+    },
+    "next": {
+      "title": "Label",
+      "permalink": "/learn/v10.15/app-development/widgets/basic/label"
+    }
+  }
+}

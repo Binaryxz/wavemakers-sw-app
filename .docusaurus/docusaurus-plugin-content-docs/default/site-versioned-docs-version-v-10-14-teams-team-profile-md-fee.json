@@ -1,0 +1,30 @@
+{
+  "unversionedId": "teams/team-profile",
+  "id": "version-v10.14/teams/team-profile",
+  "title": "Team Profile",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/teams/team-profile.md",
+  "sourceDirName": "teams",
+  "slug": "/teams/team-profile",
+  "permalink": "/learn/v10.15/teams/team-profile",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/teams/team-profile.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Team Profile",
+    "id": "team-profile"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import VCS Project",
+    "permalink": "/learn/v10.15/teams/import-vcs-project"
+  },
+  "next": {
+    "title": "Manage Subscription",
+    "permalink": "/learn/v10.15/teams/manage-subscription"
+  }
+}

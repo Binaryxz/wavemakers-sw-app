@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/custom-widgets/prefabs-overview",
+  "id": "version-v10.14/app-development/custom-widgets/prefabs-overview",
+  "title": "Prefabs - Custom Widgets & Extensions",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/custom-widgets/prefabs-overview.md",
+  "sourceDirName": "app-development/custom-widgets",
+  "slug": "/app-development/custom-widgets/prefabs-overview",
+  "permalink": "/learn/v10.15/app-development/custom-widgets/prefabs-overview",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/custom-widgets/prefabs-overview.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Prefabs - Custom Widgets & Extensions",
+    "id": "prefabs-overview",
+    "sidebar_label": "Prefabs Overview"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Prefabs",
+    "permalink": "/learn/v10.15/category/prefabs-1"
+  },
+  "next": {
+    "title": "Create Prefab",
+    "permalink": "/learn/v10.15/app-development/custom-widgets/creating-prefabs"
+  }
+}

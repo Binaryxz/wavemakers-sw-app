@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/dynamic-tabs-accordions",
+  "id": "version-v10.14/how-tos/dynamic-tabs-accordions",
+  "title": "Using Dynamic Tabs and Accordions",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/dynamic-tabs-accordions.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/dynamic-tabs-accordions",
+  "permalink": "/learn/v10.15/how-tos/dynamic-tabs-accordions",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/dynamic-tabs-accordions.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Using Dynamic Tabs and Accordions",
+    "id": "dynamic-tabs-accordions",
+    "sidebar_label": "Dynamic Tabs and Accordions"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "How Tos: Wizard",
+    "permalink": "/learn/v10.15/how-tos/how-tos-wizard"
+  },
+  "next": {
+    "title": "Tree",
+    "permalink": "/learn/v10.15/category/tree"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/basic/search",
+  "id": "version-v10.14/app-development/widgets/basic/search",
+  "title": "Search",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/basic/search.md",
+  "sourceDirName": "app-development/widgets/basic",
+  "slug": "/app-development/widgets/basic/search",
+  "permalink": "/learn/v10.15/app-development/widgets/basic/search",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/basic/search.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Search",
+    "id": "search"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Spinner",
+    "permalink": "/learn/v10.15/app-development/widgets/basic/spinner"
+  },
+  "next": {
+    "title": "Search - Basic Usage",
+    "permalink": "/learn/v10.15/app-development/widgets/basic/search-basic-usage"
+  }
+}

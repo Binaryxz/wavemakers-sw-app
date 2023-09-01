@@ -1,0 +1,15 @@
+{
+  "title": "Teams",
+  "slug": "/category/teams",
+  "permalink": "/learn/v10.15/category/teams",
+  "navigation": {
+    "previous": {
+      "title": "Build a New Connector",
+      "permalink": "/learn/v10.15/connectors/connectors-building"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/teams/overview"
+    }
+  }
+}

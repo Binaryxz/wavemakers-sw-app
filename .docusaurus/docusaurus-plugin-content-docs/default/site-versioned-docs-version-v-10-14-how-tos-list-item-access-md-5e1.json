@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/list-item-access",
+  "id": "version-v10.14/how-tos/list-item-access",
+  "title": "Accessing List Items",
+  "description": "1. currentItem & currentItemWidgets",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/list-item-access.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/list-item-access",
+  "permalink": "/learn/v10.15/how-tos/list-item-access",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/list-item-access.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Accessing List Items",
+    "id": "list-item-access"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Building Cascading Lists",
+    "permalink": "/learn/v10.15/how-tos/building-cascading-lists"
+  },
+  "next": {
+    "title": "Localization of Data Table Column Headings",
+    "permalink": "/learn/v10.15/how-tos/localization-data-table-column-headings"
+  }
+}

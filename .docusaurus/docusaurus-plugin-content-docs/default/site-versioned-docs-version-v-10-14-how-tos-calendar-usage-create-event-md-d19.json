@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/calendar-usage-create-event",
+  "id": "version-v10.14/how-tos/calendar-usage-create-event",
+  "title": "Calendar Usage - Create an Event",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/calendar-usage-create-event.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/calendar-usage-create-event",
+  "permalink": "/learn/v10.15/how-tos/calendar-usage-create-event",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/calendar-usage-create-event.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Calendar Usage - Create an Event",
+    "id": "calendar-usage-create-event"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "How Tos: Calendar",
+    "permalink": "/learn/v10.15/how-tos/how-tos-calendar"
+  },
+  "next": {
+    "title": "Calender Usage - Google Calendar Integration",
+    "permalink": "/learn/v10.15/how-tos/calender-usage-google-calendar-integration"
+  }
+}

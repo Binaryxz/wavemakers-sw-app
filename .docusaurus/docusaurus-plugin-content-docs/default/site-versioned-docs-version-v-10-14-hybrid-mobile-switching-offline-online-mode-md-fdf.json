@@ -1,0 +1,30 @@
+{
+  "unversionedId": "hybrid-mobile/switching-offline-online-mode",
+  "id": "version-v10.14/hybrid-mobile/switching-offline-online-mode",
+  "title": "Switching between Offline and Online Mode",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/hybrid-mobile/switching-offline-online-mode.md",
+  "sourceDirName": "hybrid-mobile",
+  "slug": "/hybrid-mobile/switching-offline-online-mode",
+  "permalink": "/learn/v10.15/hybrid-mobile/switching-offline-online-mode",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/hybrid-mobile/switching-offline-online-mode.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Switching between Offline and Online Mode",
+    "id": "switching-offline-online-mode"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Implementation",
+    "permalink": "/learn/v10.15/hybrid-mobile/offline-data-support-implementation"
+  },
+  "next": {
+    "title": "Connectors",
+    "permalink": "/learn/v10.15/category/connectors"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/react-native-overview",
+  "id": "react-native/react-native-overview",
+  "title": "Welcome to React Native Studio",
+  "description": "---",
+  "source": "@site/../learn/react-native/react-native-overview.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/react-native-overview",
+  "permalink": "/learn/react-native/react-native-overview",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/react-native-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Welcome to React Native Studio",
+    "id": "react-native-overview",
+    "sidebar_label": "Welcome"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "React Native or Cordova",
+    "permalink": "/learn/app-development/wavemaker-overview/react-native-and-cordova"
+  },
+  "next": {
+    "title": "Supported Features",
+    "permalink": "/learn/react-native/feature-support"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "howtos-documents",
+  "id": "version-v10.14/howtos-documents",
+  "title": "How-to Wiki",
+  "description": "Find the how to topics and look for sub-categories under each of the specified category.",
+  "source": "@site/versioned_docs/version-v10.14/howtos-documents.md",
+  "sourceDirName": ".",
+  "slug": "/howtos-documents",
+  "permalink": "/learn/v10.15/howtos-documents",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/howtos-documents.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "howtos-documents",
+    "title": "How-to Wiki"
+  },
+  "sidebar": "How to Docs",
+  "next": {
+    "title": "WaveMaker Best Practices",
+    "permalink": "/learn/v10.15/app-development/wavemaker-overview/wavemaker-best-practices"
+  }
+}

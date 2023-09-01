@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/microfrontends-iframe",
+  "id": "version-v10.14/how-tos/microfrontends-iframe",
+  "title": "Micro frontend using iframes",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/microfrontends-iframe.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/microfrontends-iframe",
+  "permalink": "/learn/v10.15/how-tos/microfrontends-iframe",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/microfrontends-iframe.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Micro frontend using iframes",
+    "id": "microfrontends-iframe"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Leaving Page with Unsaved Changes",
+    "permalink": "/learn/v10.15/how-tos/prevent-user-leaving-page-unsaved-changes"
+  },
+  "next": {
+    "title": "Enabling PWA",
+    "permalink": "/learn/v10.15/how-tos/building-pwa-app"
+  }
+}

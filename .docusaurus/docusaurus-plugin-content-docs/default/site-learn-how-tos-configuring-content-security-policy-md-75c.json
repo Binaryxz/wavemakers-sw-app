@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/configuring-content-security-policy",
+  "id": "how-tos/configuring-content-security-policy",
+  "title": "Configuring Content-Security-Policy",
+  "description": "---",
+  "source": "@site/../learn/how-tos/configuring-content-security-policy.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/configuring-content-security-policy",
+  "permalink": "/learn/how-tos/configuring-content-security-policy",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/configuring-content-security-policy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring Content-Security-Policy",
+    "id": "configuring-content-security-policy"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Customizing Post Authentication Handlers",
+    "permalink": "/learn/how-tos/customizing-post-authentication-handlers"
+  },
+  "next": {
+    "title": "Configuring MTLS",
+    "permalink": "/learn/how-tos/configure-mtls-in-wmapp"
+  }
+}

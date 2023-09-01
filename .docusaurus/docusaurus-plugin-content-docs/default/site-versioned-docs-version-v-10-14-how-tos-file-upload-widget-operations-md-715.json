@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/file-upload-widget-operations",
+  "id": "version-v10.14/how-tos/file-upload-widget-operations",
+  "title": "File Upload Widget Operations",
+  "description": "The uploaded files will be available in the upload folder and can be referred to using the listFiles and deleteFiles methods.",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/file-upload-widget-operations.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/file-upload-widget-operations",
+  "permalink": "/learn/v10.15/how-tos/file-upload-widget-operations",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/file-upload-widget-operations.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "File Upload Widget Operations",
+    "id": "file-upload-widget-operations"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "FileUpload - Basic Usage",
+    "permalink": "/learn/v10.15/app-development/widgets/form-widgets/file-upload-basic-usage"
+  },
+  "next": {
+    "title": "Upload File & Save in Database",
+    "permalink": "/learn/v10.15/how-tos/upload-file-save-database"
+  }
+}

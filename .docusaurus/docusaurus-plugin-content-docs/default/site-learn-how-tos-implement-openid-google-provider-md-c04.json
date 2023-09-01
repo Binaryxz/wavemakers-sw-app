@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/implement-openid-google-provider",
+  "id": "how-tos/implement-openid-google-provider",
+  "title": "Configuring Open ID using Google Provider",
+  "description": "Google Identity Platform allows you to manage application access by providing authentication and authorization services. With this, you can add user identity, restrict application access, and protect user accounts. Below are the steps to configure Open ID using Google.",
+  "source": "@site/../learn/how-tos/implement-openid-google-provider.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/implement-openid-google-provider",
+  "permalink": "/learn/how-tos/implement-openid-google-provider",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/implement-openid-google-provider.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring Open ID using Google Provider",
+    "id": "implement-openid-google-provider",
+    "sidebar_label": "Open ID Integration - Google"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "OpenID Integration - Azure AD",
+    "permalink": "/learn/how-tos/sso-openid-azure-active-directory"
+  },
+  "next": {
+    "title": "Open ID Integration - Okta",
+    "permalink": "/learn/how-tos/implement-openid-okta-provider"
+  }
+}

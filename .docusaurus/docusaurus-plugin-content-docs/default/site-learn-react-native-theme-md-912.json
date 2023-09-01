@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/theme",
+  "id": "react-native/theme",
+  "title": "Working with Themes in React Native",
+  "description": "---",
+  "source": "@site/../learn/react-native/theme.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/theme",
+  "permalink": "/learn/react-native/theme",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/theme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Working with Themes in React Native",
+    "id": "theme",
+    "sidebar_label": "Theme"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Styles",
+    "permalink": "/learn/react-native/styles"
+  },
+  "next": {
+    "title": "App Loader",
+    "permalink": "/learn/react-native/app-loader"
+  }
+}

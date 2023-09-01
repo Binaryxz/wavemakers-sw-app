@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v10-15-0",
+  "id": "wavemaker-release-notes/v10-15-0",
+  "title": "WaveMaker 10.15.0 - Release date: 25 July 2022",
+  "description": "Fixes include issues related to Content Security Policy (CSP).",
+  "source": "@site/../learn/wavemaker-release-notes/v10-15-0.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v10-15-0",
+  "permalink": "/learn/wavemaker-release-notes/v10-15-0",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v10-15-0.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 10.15.0 - Release date: 25 July 2022",
+    "id": "v10-15-0",
+    "sidebar_label": "Release v10.15.0"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "Release History",
+    "permalink": "/learn/wavemaker-release-notes/v10-release-summary"
+  },
+  "next": {
+    "title": "Release v10.14.0",
+    "permalink": "/learn/wavemaker-release-notes/v10-14-0"
+  }
+}

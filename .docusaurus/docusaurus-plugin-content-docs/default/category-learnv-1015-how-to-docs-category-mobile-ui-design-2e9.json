@@ -1,0 +1,15 @@
+{
+  "title": "Mobile UI design",
+  "slug": "/category/mobile-ui-design",
+  "permalink": "/learn/v10.15/category/mobile-ui-design",
+  "navigation": {
+    "previous": {
+      "title": "Barcode Scanner",
+      "permalink": "/learn/v10.15/app-development/widgets/mobile-widgets/barcode-scanner"
+    },
+    "next": {
+      "title": "Setting Splashscreen Images and App Icons",
+      "permalink": "/learn/v10.15/how-tos/splashscreens-icons"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/chart/onbeforerender",
+  "id": "version-v10.14/app-development/widgets/chart/onbeforerender",
+  "title": "Callback Event for Charts Widget",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/chart/onbeforerender.md",
+  "sourceDirName": "app-development/widgets/chart",
+  "slug": "/app-development/widgets/chart/onbeforerender",
+  "permalink": "/learn/v10.15/app-development/widgets/chart/onbeforerender",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/chart/onbeforerender.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Callback Event for Charts Widget",
+    "id": "onbeforerender",
+    "sidebar_label": "Callback Event"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Chart Widgets",
+    "permalink": "/learn/v10.15/app-development/widgets/chart/chart-widget"
+  },
+  "next": {
+    "title": "Navigation",
+    "permalink": "/learn/v10.15/category/navigation"
+  }
+}

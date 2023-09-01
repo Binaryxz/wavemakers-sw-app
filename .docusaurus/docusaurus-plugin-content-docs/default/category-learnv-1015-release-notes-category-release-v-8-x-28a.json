@@ -1,0 +1,15 @@
+{
+  "title": "Release v8.x",
+  "slug": "/category/release-v8x",
+  "permalink": "/learn/v10.15/category/release-v8x",
+  "navigation": {
+    "previous": {
+      "title": "Release v9.GA",
+      "permalink": "/learn/v10.15/wavemaker-release-notes/v9-0-ga"
+    },
+    "next": {
+      "title": "Release v8.5.0",
+      "permalink": "/learn/v10.15/wavemaker-release-notes/v8-5-0"
+    }
+  }
+}

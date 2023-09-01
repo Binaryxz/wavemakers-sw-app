@@ -1,0 +1,15 @@
+{
+  "title": "Mobile widgets",
+  "slug": "/category/mobile-widgets",
+  "permalink": "/learn/v10.15/category/mobile-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Working with Pull to Refresh",
+      "permalink": "/learn/v10.15/how-tos/working-pull-refresh"
+    },
+    "next": {
+      "title": "Using Search Widget within the Navbar",
+      "permalink": "/learn/v10.15/how-tos/using-search-widget-within-navbar"
+    }
+  }
+}

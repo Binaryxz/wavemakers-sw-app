@@ -1,0 +1,15 @@
+{
+  "title": "Mobile development",
+  "slug": "/category/mobile-development",
+  "permalink": "/learn/v10.15/category/mobile-development",
+  "navigation": {
+    "previous": {
+      "title": "WebLogic Server",
+      "permalink": "/learn/v10.15/how-tos/wavemaker-application-deployment-weblogic-application-server"
+    },
+    "next": {
+      "title": "Building Hybrid Mobile Apps",
+      "permalink": "/learn/v10.15/hybrid-mobile/building-hybrid-mobile-apps"
+    }
+  }
+}

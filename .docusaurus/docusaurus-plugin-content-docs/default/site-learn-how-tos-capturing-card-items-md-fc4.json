@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/capturing-card-items",
+  "id": "how-tos/capturing-card-items",
+  "title": "Capturing Card Items",
+  "description": "1. currentItem & currentItemWidgets",
+  "source": "@site/../learn/how-tos/capturing-card-items.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/capturing-card-items",
+  "permalink": "/learn/how-tos/capturing-card-items",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/capturing-card-items.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Capturing Card Items",
+    "id": "capturing-card-items"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Use Cases",
+    "permalink": "/learn/app-development/widgets/datalive/cards/card-use-cases"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/learn/app-development/widgets/datalive/live-form"
+  }
+}

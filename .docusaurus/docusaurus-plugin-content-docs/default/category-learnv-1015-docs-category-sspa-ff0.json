@@ -1,0 +1,15 @@
+{
+  "title": "SSPA",
+  "slug": "/category/sspa",
+  "permalink": "/learn/v10.15/category/sspa",
+  "navigation": {
+    "previous": {
+      "title": "Create Template",
+      "permalink": "/learn/v10.15/app-development/ui-design/page-concepts/creating-template-bundles"
+    },
+    "next": {
+      "title": "Micro Frontend App",
+      "permalink": "/learn/v10.15/app-development/sspa/micro-frontend"
+    }
+  }
+}

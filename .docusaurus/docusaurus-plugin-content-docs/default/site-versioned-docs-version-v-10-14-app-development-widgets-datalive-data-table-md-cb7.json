@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/datalive/data-table",
+  "id": "version-v10.14/app-development/widgets/datalive/data-table",
+  "title": "Data Table Widget",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/datalive/data-table.md",
+  "sourceDirName": "app-development/widgets/datalive",
+  "slug": "/app-development/widgets/datalive/data-table",
+  "permalink": "/learn/v10.15/app-development/widgets/datalive/data-table",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/datalive/data-table.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Data Table Widget",
+    "id": "data-table",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Data Table",
+    "permalink": "/learn/v10.15/category/data-table"
+  },
+  "next": {
+    "title": "Creating a Data Table",
+    "permalink": "/learn/v10.15/app-development/widgets/datalive/datatable/data-table-basic-usage"
+  }
+}

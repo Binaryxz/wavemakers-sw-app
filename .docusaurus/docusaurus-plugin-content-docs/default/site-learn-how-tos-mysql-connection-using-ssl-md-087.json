@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/mysql-connection-using-ssl",
+  "id": "how-tos/mysql-connection-using-ssl",
+  "title": "Connect to MySQL database using SSL",
+  "description": "---",
+  "source": "@site/../learn/how-tos/mysql-connection-using-ssl.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/mysql-connection-using-ssl",
+  "permalink": "/learn/how-tos/mysql-connection-using-ssl",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/mysql-connection-using-ssl.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Connect to MySQL database using SSL",
+    "id": "mysql-connection-using-ssl"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Custom Logic DB Event Listeners",
+    "permalink": "/learn/how-tos/custom-business-logic-using-crud-event-listeners"
+  },
+  "next": {
+    "title": "Using App Environment Properties",
+    "permalink": "/learn/how-tos/using-app-environment-properties"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "title": "All posts",
+  "items": [
+    {
+      "title": "AA Compliant Website Accessibility through WaveMaker Platform",
+      "permalink": "/learn/blog/2023/08/14/aa-compliance-accessibility"
+    },
+    {
+      "title": "Ending Support to WaveMaker 10 Projects",
+      "permalink": "/learn/blog/2023/08/11/wavemaker10x-end-of-support"
+    },
+    {
+      "title": "Mutual TLS Support in REST APIs",
+      "permalink": "/learn/blog/2022/08/23/Support-for-mutual-tls-in-rest-apis"
+    },
+    {
+      "title": "Monitoring performance and health of deployed WaveMaker app",
+      "permalink": "/learn/blog/2022/08/02/Monitoring-performance-and-health-of-deployed-WaveMaker-app"
+    },
+    {
+      "title": "Mitigating Spring Zero-day Vulnerability CVE-2022-22965",
+      "permalink": "/learn/blog/2022/04/05/mitigating-spring-zero-day-vulnerability"
+    },
+    {
+      "title": "Upgrading saml to saml2-service-provider",
+      "permalink": "/learn/blog/2022/03/24/saml-library-upgrade"
+    },
+    {
+      "title": "WaveMaker application pom.xml",
+      "permalink": "/learn/blog/2022/03/24/wavemaker-application-pom"
+    },
+    {
+      "title": "Archiving WaveMaker 9 Projects",
+      "permalink": "/learn/blog/2022/02/01/archiving-9-projects"
+    },
+    {
+      "title": "URL Change in WaveMaker Android WebView",
+      "permalink": "/learn/blog/2022/01/10/cordova-android-change-in-webview-url"
+    },
+    {
+      "title": "Announcement about Angular 11 Update",
+      "permalink": "/learn/blog/2021/12/17/angular-11-update"
+    },
+    {
+      "title": "Mitigating Log4J 2 Vulnerability CVE 2021 44228",
+      "permalink": "/learn/blog/2021/12/13/zero-day-vulnerability"
+    },
+    {
+      "title": "Ending Support of WaveMaker 9 Projects",
+      "permalink": "/learn/blog/2021/12/08/wavemaker9x-end-of-support"
+    },
+    {
+      "title": "Git Branching Strategy",
+      "permalink": "/learn/blog/2021/09/17/git-branching-strategy"
+    },
+    {
+      "title": "Important Announcement about Angular 10 Update",
+      "permalink": "/learn/blog/2021/09/01/angular-10-update"
+    },
+    {
+      "title": "Accessibility Support in WaveMaker",
+      "permalink": "/learn/blog/2021/08/23/accessibility-feature"
+    },
+    {
+      "title": "Generating .aab files using wm-cordova-cli or AppChef",
+      "permalink": "/learn/blog/2021/07/19/aab-support"
+    },
+    {
+      "title": "WaveMaker Studio enables faster database imports",
+      "permalink": "/learn/blog/2021/06/24/faster-database-imports-in-studio"
+    },
+    {
+      "title": "Redshift Database Integration",
+      "permalink": "/learn/blog/2021/06/18/redshift"
+    },
+    {
+      "title": "Integrate SAP HANA Database with WaveMaker",
+      "permalink": "/learn/blog/2021/06/18/sap-hana"
+    },
+    {
+      "title": "Important Announcement about Changes to Documentation Domain",
+      "permalink": "/learn/blog/2021/06/15/announcement-documentation-hostname-update"
+    },
+    {
+      "title": "WaveMaker Releases 10.7 Version",
+      "permalink": "/learn/blog/2021/05/09/product-update-10-7-whats-new"
+    },
+    {
+      "title": "Theme Builder with some coding (Build + Edit)",
+      "permalink": "/learn/blog/2021/04/19/Build-theme-and-edit"
+    },
+    {
+      "title": "Understanding Scaling of WaveMaker Applications",
+      "permalink": "/learn/blog/2021/01/04/spring-session-persistence"
+    },
+    {
+      "title": "Automatically Import your Website Branding Styles into a Theme",
+      "permalink": "/learn/blog/2020/12/18/generate-color-palette-from-url"
+    },
+    {
+      "title": "Certificate Pinning Case Study",
+      "permalink": "/learn/blog/2020/12/15/certificate-pinning"
+    },
+    {
+      "title": "Cordova 10.0.0 Upgrade ",
+      "permalink": "/learn/blog/2020/12/09/cordova-10-0-0-upgrade"
+    },
+    {
+      "title": "WaveMaker Releases 10.6 Version",
+      "permalink": "/learn/blog/2020/12/08/wavemaker-release-10-6-version"
+    },
+    {
+      "title": "Retain UI State in WaveMaker Apps",
+      "permalink": "/learn/blog/2020/11/09/Retain-UI-State-on-Wavemaker-Apps"
+    },
+    {
+      "title": "Theme builder is ready with a new update",
+      "permalink": "/learn/blog/2020/07/03/Another-update-to-theme-builder"
+    },
+    {
+      "title": "PostgREST OpenAPI support in WaveMaker",
+      "permalink": "/learn/blog/2020/07/01/wavemaker-openapi-postgrest-support"
+    },
+    {
+      "title": "Fully automated and scalable test execution using k8s",
+      "permalink": "/learn/blog/2020/06/30/run-zalenium-tests-on-kubernetes-blog"
+    },
+    {
+      "title": "New file picker for mobile apps - Improvements in UI to select files in mobile",
+      "permalink": "/learn/blog/2020/06/24/wavemaker-mobile-filepicker"
+    },
+    {
+      "title": "Deliver faster applications with WaveMaker!",
+      "permalink": "/learn/blog/2020/06/23/deliver-faster-applications-with-wavemaker"
+    },
+    {
+      "title": "WaveMaker releases 10.5 version",
+      "permalink": "/learn/blog/2020/06/23/product-update-10-5-whats-new"
+    },
+    {
+      "title": "GraphQL in a Micro Services Architecture",
+      "permalink": "/learn/blog/2020/06/11/graphql-microservice-architecture"
+    },
+    {
+      "title": "Build Themes for WaveMaker Apps Without Any Coding",
+      "permalink": "/learn/blog/2020/06/01/build-themes-without-any-coding"
+    },
+    {
+      "title": "COVID-19 Visualization using WaveMaker - Part 2",
+      "permalink": "/learn/blog/2020/04/30/covid19-visualization-using-wavemaker-part-2"
+    },
+    {
+      "title": "COVID-19 Visualization using WaveMaker - Part 1",
+      "permalink": "/learn/blog/2020/04/27/covid19-visualization-using-wavemaker"
+    },
+    {
+      "title": "WaveMaker Integrates with DigitalOcean Kubernetes for App Deployments",
+      "permalink": "/learn/blog/2020/04/23/deployment-to-digital-ocean"
+    },
+    {
+      "title": "Deployment Experience made better!",
+      "permalink": "/learn/blog/2020/04/22/deployments-made-better"
+    },
+    {
+      "title": "OpenAPI support in WaveMaker",
+      "permalink": "/learn/blog/2020/04/21/wavemaker-openapi-import"
+    },
+    {
+      "title": " WaveMaker platform is updated to use WKWebView.",
+      "permalink": "/learn/blog/2020/04/20/wavemaker-wkwebview-upgrade"
+    },
+    {
+      "title": "Deliver WaveMaker Apps as Micro Frontend Modules",
+      "permalink": "/learn/blog/2020/02/25/wavemaker-micro-front-end-support"
+    },
+    {
+      "title": "All-new WaveMaker docs with a powerful Search",
+      "permalink": "/learn/blog/2019/12/13/new-doc-search-feature"
+    },
+    {
+      "title": "Welcome to the WaveMaker Developers Blog",
+      "permalink": "/learn/blog/2019/11/01/developers-team-blog"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-2-4",
+  "id": "wavemaker-release-notes/v11-2-4",
+  "title": "WaveMaker 11.2.4 - Release date: 06 February 2023",
+  "description": "This release includes bug fixes for Dynamic Data Table infinite scroll pagination and keyboard date picker.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-2-4.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-2-4",
+  "permalink": "/learn/wavemaker-release-notes/v11-2-4",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-2-4.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.2.4 - Release date: 06 February 2023",
+    "id": "v11-2-4",
+    "sidebar_label": "v11.2.4"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.2.5",
+    "permalink": "/learn/wavemaker-release-notes/v11-2-5"
+  },
+  "next": {
+    "title": "v11.2.2",
+    "permalink": "/learn/wavemaker-release-notes/v11-2-2"
+  }
+}

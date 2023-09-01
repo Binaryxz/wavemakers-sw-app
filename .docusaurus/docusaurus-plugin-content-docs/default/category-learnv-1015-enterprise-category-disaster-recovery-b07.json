@@ -1,0 +1,15 @@
+{
+  "title": "Disaster Recovery",
+  "slug": "/category/disaster-recovery",
+  "permalink": "/learn/v10.15/category/disaster-recovery",
+  "navigation": {
+    "previous": {
+      "title": "OS Upgrade",
+      "permalink": "/learn/v10.15/on-premise/upgrade/os-upgrade"
+    },
+    "next": {
+      "title": "Backup and Restore ",
+      "permalink": "/learn/v10.15/on-premise/disaster-recovery/backup-and-restore"
+    }
+  }
+}

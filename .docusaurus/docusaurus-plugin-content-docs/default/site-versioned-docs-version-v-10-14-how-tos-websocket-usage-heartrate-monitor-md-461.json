@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-tos/websocket-usage-heartrate-monitor",
+  "id": "version-v10.14/how-tos/websocket-usage-heartrate-monitor",
+  "title": "WebSocket Usage - Heartrate Monitor",
+  "description": "8.4 Release",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/websocket-usage-heartrate-monitor.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/websocket-usage-heartrate-monitor",
+  "permalink": "/learn/v10.15/how-tos/websocket-usage-heartrate-monitor",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/websocket-usage-heartrate-monitor.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WebSocket Usage - Heartrate Monitor",
+    "id": "websocket-usage-heartrate-monitor"
+  }
+}

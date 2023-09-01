@@ -1,0 +1,15 @@
+{
+  "title": "Security",
+  "slug": "/category/security-1",
+  "permalink": "/learn/v10.15/category/security-1",
+  "navigation": {
+    "previous": {
+      "title": "Localization of Data Table Column Headings",
+      "permalink": "/learn/v10.15/how-tos/localization-data-table-column-headings"
+    },
+    "next": {
+      "title": "SAML Integration - OneLogin",
+      "permalink": "/learn/v10.15/how-tos/saml-integration-onelogin"
+    }
+  }
+}

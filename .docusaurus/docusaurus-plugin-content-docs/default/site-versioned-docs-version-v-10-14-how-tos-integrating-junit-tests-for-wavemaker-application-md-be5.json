@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/integrating-junit-tests-for-wavemaker-application",
+  "id": "version-v10.14/how-tos/integrating-junit-tests-for-wavemaker-application",
+  "title": "Integrating JUnit Tests for WaveMaker Application",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/integrating-junit-tests-for-wavemaker-application.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/integrating-junit-tests-for-wavemaker-application",
+  "permalink": "/learn/v10.15/how-tos/integrating-junit-tests-for-wavemaker-application",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/integrating-junit-tests-for-wavemaker-application.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating JUnit Tests for WaveMaker Application",
+    "id": "integrating-junit-tests-for-wavemaker-application"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Scheduling a Java Service",
+    "permalink": "/learn/v10.15/how-tos/scheduling-java-service"
+  },
+  "next": {
+    "title": "ORM Artifacts",
+    "permalink": "/learn/v10.15/app-development/services/database-services/orm-artifacts"
+  }
+}

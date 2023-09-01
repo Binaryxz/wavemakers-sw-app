@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/custom-widget",
+  "id": "react-native/custom-widget",
+  "title": "Custom",
+  "description": "---",
+  "source": "@site/../learn/react-native/custom-widget.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/custom-widget",
+  "permalink": "/learn/react-native/custom-widget",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/custom-widget.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Custom",
+    "sidebar_label": "Custom Widget",
+    "id": "custom-widget"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Splash Screen",
+    "permalink": "/learn/react-native/splash-screen"
+  },
+  "next": {
+    "title": "SSL Pinning (Beta)",
+    "permalink": "/learn/react-native/ssl-pinning"
+  }
+}

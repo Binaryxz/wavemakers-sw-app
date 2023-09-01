@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/splash-screen",
+  "id": "react-native/splash-screen",
+  "title": "Splash Screen",
+  "description": "---",
+  "source": "@site/../learn/react-native/splash-screen.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/splash-screen",
+  "permalink": "/learn/react-native/splash-screen",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/splash-screen.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Splash Screen",
+    "id": "splash-screen",
+    "sidebar_label": "Splash Screen"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Animations",
+    "permalink": "/learn/react-native/animations"
+  },
+  "next": {
+    "title": "Custom Widget",
+    "permalink": "/learn/react-native/custom-widget"
+  }
+}

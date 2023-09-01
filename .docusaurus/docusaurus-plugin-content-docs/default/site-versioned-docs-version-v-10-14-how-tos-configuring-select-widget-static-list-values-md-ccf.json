@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/configuring-select-widget-static-list-values",
+  "id": "version-v10.14/how-tos/configuring-select-widget-static-list-values",
+  "title": "Configuring Select Widget from a Static List of Values",
+  "description": "A Select widget can be used in various ways based on the source of data. Each type of data source needs a different approach. WaveMaker Select widget works in any one of the following ways:",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/configuring-select-widget-static-list-values.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/configuring-select-widget-static-list-values",
+  "permalink": "/learn/v10.15/how-tos/configuring-select-widget-static-list-values",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/configuring-select-widget-static-list-values.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring Select Widget from a Static List of Values",
+    "id": "configuring-select-widget-static-list-values"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Select",
+    "permalink": "/learn/v10.15/category/select"
+  },
+  "next": {
+    "title": "Configuring Select Widget from a Static Variable",
+    "permalink": "/learn/v10.15/how-tos/configuring-select-widget-static-variable"
+  }
+}

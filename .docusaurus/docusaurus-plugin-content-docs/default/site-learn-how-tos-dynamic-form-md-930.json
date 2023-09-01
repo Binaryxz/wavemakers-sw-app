@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/dynamic-form",
+  "id": "how-tos/dynamic-form",
+  "title": "Dynamic Form",
+  "description": "---",
+  "source": "@site/../learn/how-tos/dynamic-form.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/dynamic-form",
+  "permalink": "/learn/how-tos/dynamic-form",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/dynamic-form.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dynamic Form",
+    "id": "dynamic-form",
+    "sidebar_label": "Dynamic Form"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Forms Overview",
+    "permalink": "/learn/app-development/widgets/datalive/form"
+  },
+  "next": {
+    "title": "Creating a Form",
+    "permalink": "/learn/app-development/widgets/datalive/form/form-usage-scenarios"
+  }
+}

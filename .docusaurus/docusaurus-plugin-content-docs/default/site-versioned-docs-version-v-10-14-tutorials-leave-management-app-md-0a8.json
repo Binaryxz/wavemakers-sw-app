@@ -1,0 +1,30 @@
+{
+  "unversionedId": "tutorials/leave-management-app",
+  "id": "version-v10.14/tutorials/leave-management-app",
+  "title": "Leave Management App",
+  "description": "This topic provides step-by-step instructions for building a Leave Management app using the WaveMaker Rapid-Application Development Platform.",
+  "source": "@site/versioned_docs/version-v10.14/tutorials/leave-management-app.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/leave-management-app",
+  "permalink": "/learn/v10.15/tutorials/leave-management-app",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/tutorials/leave-management-app.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "leave-management-app",
+    "title": "Leave Management App"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "App Building Exercises",
+    "permalink": "/learn/v10.15/category/app-building-exercises"
+  },
+  "next": {
+    "title": "Asset Management App",
+    "permalink": "/learn/v10.15/tutorials/asset-management-app"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Install on Azure",
+  "slug": "/category/install-on-azure",
+  "permalink": "/learn/v10.15/category/install-on-azure",
+  "navigation": {
+    "previous": {
+      "title": "Configure Pipeline",
+      "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/on-premise/azure/wavemaker-enterprise-setup-on-azure"
+    }
+  }
+}

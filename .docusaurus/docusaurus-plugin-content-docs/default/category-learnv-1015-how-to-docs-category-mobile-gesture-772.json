@@ -1,0 +1,15 @@
+{
+  "title": "Mobile gesture",
+  "slug": "/category/mobile-gesture",
+  "permalink": "/learn/v10.15/category/mobile-gesture",
+  "navigation": {
+    "previous": {
+      "title": "Notify users about new update",
+      "permalink": "/learn/v10.15/how-tos/mobile-notify-new-version-update"
+    },
+    "next": {
+      "title": "Setting Swipe Gestures on a List Widget",
+      "permalink": "/learn/v10.15/how-tos/setting-swipe-gestures-list-widget"
+    }
+  }
+}

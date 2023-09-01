@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/wavemaker-overview/artifacts-repository",
+  "id": "version-v10.14/app-development/wavemaker-overview/artifacts-repository",
+  "title": "Artifacts Repository",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/wavemaker-overview/artifacts-repository.md",
+  "sourceDirName": "app-development/wavemaker-overview",
+  "slug": "/app-development/wavemaker-overview/artifacts-repository",
+  "permalink": "/learn/v10.15/app-development/wavemaker-overview/artifacts-repository",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/wavemaker-overview/artifacts-repository.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Artifacts Repository",
+    "id": "artifacts-repository"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Localization",
+    "permalink": "/learn/v10.15/app-development/wavemaker-overview/localization"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/learn/v10.15/category/deployment"
+  }
+}

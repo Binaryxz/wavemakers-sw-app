@@ -1,0 +1,15 @@
+{
+  "title": "Install on VMware ESXi",
+  "slug": "/category/install-on-vmware-esxi",
+  "permalink": "/learn/v10.15/category/install-on-vmware-esxi",
+  "navigation": {
+    "previous": {
+      "title": "Configure Pipeline",
+      "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/on-premise/vmware-esxi/wavemaker-enterprise-setup-on-vmware"
+    }
+  }
+}

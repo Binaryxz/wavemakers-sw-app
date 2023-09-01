@@ -1,0 +1,15 @@
+{
+  "title": "Variables",
+  "slug": "/category/variables",
+  "permalink": "/learn/v10.15/category/variables",
+  "navigation": {
+    "previous": {
+      "title": "Integrate OTP (One-Time Passcode) Verification with WaveMaker App",
+      "permalink": "/learn/v10.15/how-tos/twilio-otp-integration"
+    },
+    "next": {
+      "title": "Using Filter Conditions on Variable",
+      "permalink": "/learn/v10.15/how-tos/using-filter-conditions-variable"
+    }
+  }
+}

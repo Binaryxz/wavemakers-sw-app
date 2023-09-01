@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/adding-ui-for-api-server-side-pagination",
+  "id": "how-tos/adding-ui-for-api-server-side-pagination",
+  "title": "Adding UI Pagination for API Server-side Pagination",
+  "description": "---",
+  "source": "@site/../learn/how-tos/adding-ui-for-api-server-side-pagination.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/adding-ui-for-api-server-side-pagination",
+  "permalink": "/learn/how-tos/adding-ui-for-api-server-side-pagination",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/adding-ui-for-api-server-side-pagination.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Adding UI Pagination for API Server-side Pagination",
+    "id": "adding-ui-for-api-server-side-pagination",
+    "sidebar_label": "UI for API Server-side Pagination"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Working with API with different pagination formats",
+    "permalink": "/learn/how-tos/working-api-with-different-pagination-formats"
+  },
+  "next": {
+    "title": "Sending Email using WaveMaker Connector",
+    "permalink": "/learn/how-tos/sending-email-using-java-service"
+  }
+}

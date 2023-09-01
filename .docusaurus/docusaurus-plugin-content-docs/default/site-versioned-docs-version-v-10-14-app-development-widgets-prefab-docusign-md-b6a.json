@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/prefab/docusign",
+  "id": "version-v10.14/app-development/widgets/prefab/docusign",
+  "title": "Docusign Prefab",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/prefab/docusign.md",
+  "sourceDirName": "app-development/widgets/prefab",
+  "slug": "/app-development/widgets/prefab/docusign",
+  "permalink": "/learn/v10.15/app-development/widgets/prefab/docusign",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/prefab/docusign.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Docusign Prefab",
+    "id": "docusign"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Entity Extraction Prefab",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/entity-extraction-from-documents"
+  },
+  "next": {
+    "title": "OAuth Prefabs",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs"
+  }
+}

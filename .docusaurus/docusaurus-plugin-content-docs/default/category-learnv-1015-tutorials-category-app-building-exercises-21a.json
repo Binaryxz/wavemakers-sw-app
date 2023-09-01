@@ -1,0 +1,15 @@
+{
+  "title": "App Building Exercises",
+  "slug": "/category/app-building-exercises",
+  "permalink": "/learn/v10.15/category/app-building-exercises",
+  "navigation": {
+    "previous": {
+      "title": "Database Essentials",
+      "permalink": "/learn/v10.15/jump-start/jump-start-db-essentials"
+    },
+    "next": {
+      "title": "Leave Management App",
+      "permalink": "/learn/v10.15/tutorials/leave-management-app"
+    }
+  }
+}

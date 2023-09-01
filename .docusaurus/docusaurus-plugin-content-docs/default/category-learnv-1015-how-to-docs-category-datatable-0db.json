@@ -1,0 +1,15 @@
+{
+  "title": "DataTable",
+  "slug": "/category/datatable",
+  "permalink": "/learn/v10.15/category/datatable",
+  "navigation": {
+    "previous": {
+      "title": "Capturing Card Items",
+      "permalink": "/learn/v10.15/how-tos/capturing-card-items"
+    },
+    "next": {
+      "title": "Customising Data Table Row Action",
+      "permalink": "/learn/v10.15/how-tos/data-table-actions"
+    }
+  }
+}

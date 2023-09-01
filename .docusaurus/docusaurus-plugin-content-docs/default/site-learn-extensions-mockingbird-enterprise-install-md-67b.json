@@ -1,0 +1,31 @@
+{
+  "unversionedId": "extensions/mockingbird/enterprise/install",
+  "id": "extensions/mockingbird/enterprise/install",
+  "title": "Install MockingBird Platform",
+  "description": "---",
+  "source": "@site/../learn/extensions/mockingbird/enterprise/install.md",
+  "sourceDirName": "extensions/mockingbird/enterprise",
+  "slug": "/extensions/mockingbird/enterprise/install",
+  "permalink": "/learn/extensions/mockingbird/enterprise/install",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/extensions/mockingbird/enterprise/install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Install MockingBird Platform",
+    "id": "install",
+    "sidebar_label": "Install"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Volume Creation",
+    "permalink": "/learn/extensions/mockingbird/enterprise/persistent-volumes"
+  },
+  "next": {
+    "title": "Integrate",
+    "permalink": "/learn/extensions/mockingbird/enterprise/integrate"
+  }
+}

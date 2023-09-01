@@ -1,0 +1,15 @@
+{
+  "title": "Forms",
+  "slug": "/category/forms",
+  "permalink": "/learn/v10.15/category/forms",
+  "navigation": {
+    "previous": {
+      "title": "Localization of Data Table Column Headings",
+      "permalink": "/learn/v10.15/how-tos/localization-data-table-column-headings"
+    },
+    "next": {
+      "title": "Using Live Form",
+      "permalink": "/learn/v10.15/how-tos/using-live-form"
+    }
+  }
+}

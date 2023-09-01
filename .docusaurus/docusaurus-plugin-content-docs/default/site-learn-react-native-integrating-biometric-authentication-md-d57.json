@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/integrating-biometric-authentication",
+  "id": "react-native/integrating-biometric-authentication",
+  "title": "Integrating Biometric Authentication",
+  "description": "---",
+  "source": "@site/../learn/react-native/integrating-biometric-authentication.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/integrating-biometric-authentication",
+  "permalink": "/learn/react-native/integrating-biometric-authentication",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/integrating-biometric-authentication.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating Biometric Authentication",
+    "id": "integrating-biometric-authentication",
+    "sidebar_label": "Biometric Authentication"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "React Native Embed",
+    "permalink": "/learn/react-native/react-native-embed"
+  },
+  "next": {
+    "title": "Disable Screen Capture",
+    "permalink": "/learn/react-native/disable-device-screencapture"
+  }
+}

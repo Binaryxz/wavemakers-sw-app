@@ -1,0 +1,15 @@
+{
+  "title": "Install on AWS",
+  "slug": "/category/install-on-aws",
+  "permalink": "/learn/v10.15/category/install-on-aws",
+  "navigation": {
+    "previous": {
+      "title": "What you'll need",
+      "permalink": "/learn/v10.15/on-premise/prerequisites"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/on-premise/aws/wavemaker-enterprise-setup-on-aws"
+    }
+  }
+}

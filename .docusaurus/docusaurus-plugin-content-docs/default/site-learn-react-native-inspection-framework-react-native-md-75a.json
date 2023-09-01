@@ -1,0 +1,22 @@
+{
+  "unversionedId": "react-native/inspection-framework-react-native",
+  "id": "react-native/inspection-framework-react-native",
+  "title": "Inspection Framework React Native",
+  "description": "---",
+  "source": "@site/../learn/react-native/inspection-framework-react-native.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/inspection-framework-react-native",
+  "permalink": "/learn/react-native/inspection-framework-react-native",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/inspection-framework-react-native.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Inspection Framework React Native",
+    "sidebar_label": "Inspection Framework",
+    "id": "inspection-framework-react-native"
+  }
+}

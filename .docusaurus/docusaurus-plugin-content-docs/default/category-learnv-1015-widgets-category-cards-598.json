@@ -1,0 +1,15 @@
+{
+  "title": "Cards",
+  "slug": "/category/cards-1",
+  "permalink": "/learn/v10.15/category/cards-1",
+  "navigation": {
+    "previous": {
+      "title": "Widgets Composition",
+      "permalink": "/learn/v10.15/app-development/widgets/ui-elements"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/cards"
+    }
+  }
+}

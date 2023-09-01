@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/publish-expo-module-and-use-in-wavemaker-project",
+  "id": "react-native/publish-expo-module-and-use-in-wavemaker-project",
+  "title": "Publish Expo Module and Use in WaveMaker Project",
+  "description": "---",
+  "source": "@site/../learn/react-native/publish-expo-module-and-use-in-wavemaker-project.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/publish-expo-module-and-use-in-wavemaker-project",
+  "permalink": "/learn/react-native/publish-expo-module-and-use-in-wavemaker-project",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/publish-expo-module-and-use-in-wavemaker-project.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Publish Expo Module and Use in WaveMaker Project",
+    "id": "publish-expo-module-and-use-in-wavemaker-project",
+    "sidebar_label": "Publish Expo Module"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Secure Store",
+    "permalink": "/learn/react-native/integrating-secure-store"
+  },
+  "next": {
+    "title": "Building Hybrid Mobile Apps",
+    "permalink": "/learn/hybrid-mobile/building-hybrid-mobile-apps"
+  }
+}

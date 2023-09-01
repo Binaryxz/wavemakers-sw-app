@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/integrating-amazon-cognito-user-authentication",
+  "id": "version-v10.14/how-tos/integrating-amazon-cognito-user-authentication",
+  "title": "Integrating Amazon Cognito for User Authentication",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/integrating-amazon-cognito-user-authentication.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/integrating-amazon-cognito-user-authentication",
+  "permalink": "/learn/v10.15/how-tos/integrating-amazon-cognito-user-authentication",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/integrating-amazon-cognito-user-authentication.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating Amazon Cognito for User Authentication",
+    "id": "integrating-amazon-cognito-user-authentication"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Synchronizing Java Services Controller",
+    "permalink": "/learn/v10.15/how-tos/synchronizing-java-services-controller"
+  },
+  "next": {
+    "title": "Integrating Sample Jasper Report in WaveMaker Application",
+    "permalink": "/learn/v10.15/how-tos/integrating-sample-jasper-report-wavemaker-application"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/ui-elements",
+  "id": "app-development/widgets/ui-elements",
+  "title": "Composing Widgets",
+  "description": "Learn about widgets and how it works.",
+  "source": "@site/../learn/app-development/widgets/ui-elements.md",
+  "sourceDirName": "app-development/widgets",
+  "slug": "/app-development/widgets/ui-elements",
+  "permalink": "/learn/app-development/widgets/ui-elements",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/widgets/ui-elements.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Composing Widgets",
+    "id": "ui-elements",
+    "sidebar_label": "Widgets Composition"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create Template",
+    "permalink": "/learn/app-development/ui-design/page-concepts/creating-template-bundles"
+  },
+  "next": {
+    "title": "Page Artefacts",
+    "permalink": "/learn/app-development/ui-design/page-artefacts"
+  }
+}

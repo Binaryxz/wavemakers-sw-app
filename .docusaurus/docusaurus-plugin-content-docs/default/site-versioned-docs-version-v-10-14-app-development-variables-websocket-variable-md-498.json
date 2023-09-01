@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/variables/websocket-variable",
+  "id": "version-v10.14/app-development/variables/websocket-variable",
+  "title": "WebSocket Variable",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/variables/websocket-variable.md",
+  "sourceDirName": "app-development/variables",
+  "slug": "/app-development/variables/websocket-variable",
+  "permalink": "/learn/v10.15/app-development/variables/websocket-variable",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/variables/websocket-variable.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WebSocket Variable",
+    "id": "websocket-variable"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Service Variable",
+    "permalink": "/learn/v10.15/app-development/variables/web-service"
+  },
+  "next": {
+    "title": "Java Services",
+    "permalink": "/learn/v10.15/category/java-services"
+  }
+}

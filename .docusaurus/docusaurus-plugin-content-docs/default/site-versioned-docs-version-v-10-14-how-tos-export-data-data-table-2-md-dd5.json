@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/export-data-data-table-2",
+  "id": "version-v10.14/how-tos/export-data-data-table-2",
+  "title": "Export Data from Data Table",
+  "description": "9.4 release",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/export-data-data-table-2.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/export-data-data-table-2",
+  "permalink": "/learn/v10.15/how-tos/export-data-data-table-2",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/export-data-data-table-2.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Export Data from Data Table",
+    "id": "export-data-data-table-2",
+    "sidebar_label": "Export Data from Data Table - 2"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Export Data from Data Table",
+    "permalink": "/learn/v10.15/how-tos/export-data-data-table"
+  },
+  "next": {
+    "title": "Setting Blob Filename",
+    "permalink": "/learn/v10.15/how-tos/setting-blob-filename"
+  }
+}

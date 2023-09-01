@@ -1,0 +1,15 @@
+{
+  "title": "REST & SOAP",
+  "slug": "/category/rest--soap",
+  "permalink": "/learn/v10.15/category/rest--soap",
+  "navigation": {
+    "previous": {
+      "title": "Database Service APIs",
+      "permalink": "/learn/v10.15/app-development/services/api-designer/database-service-apis"
+    },
+    "next": {
+      "title": "Web Services Overview",
+      "permalink": "/learn/v10.15/app-development/services/web-services/"
+    }
+  }
+}

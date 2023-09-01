@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/integrating-secure-store",
+  "id": "react-native/integrating-secure-store",
+  "title": "Integrating Secure Store",
+  "description": "---",
+  "source": "@site/../learn/react-native/integrating-secure-store.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/integrating-secure-store",
+  "permalink": "/learn/react-native/integrating-secure-store",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/integrating-secure-store.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating Secure Store",
+    "id": "integrating-secure-store",
+    "sidebar_label": "Secure Store"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Detect Rooted Device",
+    "permalink": "/learn/react-native/detect-rooted-device"
+  },
+  "next": {
+    "title": "Publish Expo Module",
+    "permalink": "/learn/react-native/publish-expo-module-and-use-in-wavemaker-project"
+  }
+}

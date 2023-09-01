@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/ssl-pinning",
+  "id": "react-native/ssl-pinning",
+  "title": "SSL Pinning (Beta)",
+  "description": "---",
+  "source": "@site/../learn/react-native/ssl-pinning.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/ssl-pinning",
+  "permalink": "/learn/react-native/ssl-pinning",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/ssl-pinning.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "SSL Pinning (Beta)",
+    "id": "ssl-pinning",
+    "sidebar_label": "SSL Pinning (Beta)"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Custom Widget",
+    "permalink": "/learn/react-native/custom-widget"
+  },
+  "next": {
+    "title": "Test Run Preview",
+    "permalink": "/learn/react-native/test-run"
+  }
+}

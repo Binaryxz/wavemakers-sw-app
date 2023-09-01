@@ -1,0 +1,31 @@
+{
+  "unversionedId": "extensions/mockingbird/enterprise/getting-started",
+  "id": "extensions/mockingbird/enterprise/getting-started",
+  "title": "WaveMaker MockingBird Setup Process",
+  "description": "---",
+  "source": "@site/../learn/extensions/mockingbird/enterprise/getting-started.md",
+  "sourceDirName": "extensions/mockingbird/enterprise",
+  "slug": "/extensions/mockingbird/enterprise/getting-started",
+  "permalink": "/learn/extensions/mockingbird/enterprise/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/extensions/mockingbird/enterprise/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker MockingBird Setup Process",
+    "id": "getting-started",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Dehydration and Rehydration",
+    "permalink": "/learn/on-premise/disaster-recovery/dehydration-and-rehydration"
+  },
+  "next": {
+    "title": "What you'll need",
+    "permalink": "/learn/extensions/mockingbird/enterprise/prerequisites"
+  }
+}

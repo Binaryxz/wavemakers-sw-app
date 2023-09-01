@@ -1,0 +1,30 @@
+{
+  "unversionedId": "teams/team-setup",
+  "id": "version-v10.14/teams/team-setup",
+  "title": "Team Setup",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/teams/team-setup.md",
+  "sourceDirName": "teams",
+  "slug": "/teams/team-setup",
+  "permalink": "/learn/v10.15/teams/team-setup",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/teams/team-setup.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Team Setup",
+    "id": "team-setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/learn/v10.15/teams/overview"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/learn/v10.15/teams/dashboard"
+  }
+}

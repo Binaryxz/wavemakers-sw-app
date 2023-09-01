@@ -1,0 +1,22 @@
+{
+  "unversionedId": "react-native/mobile-reactnative-automation-appium",
+  "id": "react-native/mobile-reactnative-automation-appium",
+  "title": "Automated testing of WaveMaker mobile apps using Appium",
+  "description": "---",
+  "source": "@site/../learn/react-native/mobile-reactnative-automation-appium.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/mobile-reactnative-automation-appium",
+  "permalink": "/learn/react-native/mobile-reactnative-automation-appium",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/mobile-reactnative-automation-appium.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Automated testing of WaveMaker mobile apps using Appium",
+    "id": "mobile-reactnative-automation-appium",
+    "sidebar_label": "WaveMaker ReactNative Mobile Apps Automation"
+  }
+}

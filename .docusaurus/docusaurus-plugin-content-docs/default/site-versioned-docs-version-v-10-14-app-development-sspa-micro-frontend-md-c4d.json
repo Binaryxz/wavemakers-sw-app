@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/sspa/micro-frontend",
+  "id": "version-v10.14/app-development/sspa/micro-frontend",
+  "title": "WaveMaker App as Micro Frontend Module",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/sspa/micro-frontend.md",
+  "sourceDirName": "app-development/sspa",
+  "slug": "/app-development/sspa/micro-frontend",
+  "permalink": "/learn/v10.15/app-development/sspa/micro-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/sspa/micro-frontend.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker App as Micro Frontend Module",
+    "id": "micro-frontend",
+    "sidebar_label": "Micro Frontend App"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "SSPA",
+    "permalink": "/learn/v10.15/category/sspa"
+  },
+  "next": {
+    "title": "Databases",
+    "permalink": "/learn/v10.15/category/databases"
+  }
+}

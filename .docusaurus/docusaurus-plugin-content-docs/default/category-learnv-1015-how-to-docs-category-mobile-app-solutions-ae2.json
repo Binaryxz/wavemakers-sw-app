@@ -1,0 +1,15 @@
+{
+  "title": "Mobile App Solutions",
+  "slug": "/category/mobile-app-solutions",
+  "permalink": "/learn/v10.15/category/mobile-app-solutions",
+  "navigation": {
+    "previous": {
+      "title": "SSL Termination in LoadBalancer",
+      "permalink": "/learn/v10.15/how-tos/ssl-offloading"
+    },
+    "next": {
+      "title": "Notify users about new update",
+      "permalink": "/learn/v10.15/how-tos/mobile-notify-new-version-update"
+    }
+  }
+}

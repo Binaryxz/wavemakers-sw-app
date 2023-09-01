@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/getting-started",
+  "id": "version-v10.14/on-premise/getting-started",
+  "title": "WaveMaker Enterprise Setup Process",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/getting-started.md",
+  "sourceDirName": "on-premise",
+  "slug": "/on-premise/getting-started",
+  "permalink": "/learn/v10.15/on-premise/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/getting-started.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker Enterprise Setup Process",
+    "id": "getting-started",
+    "sidebar_label": "Enterprise Setup Process"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/learn/v10.15/category/getting-started"
+  },
+  "next": {
+    "title": "Users & Roles",
+    "permalink": "/learn/v10.15/on-premise/users-roles"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "tutorials/build-app-in-5-minutes/preview-test-app",
+  "id": "version-v10.14/tutorials/build-app-in-5-minutes/preview-test-app",
+  "title": "Preview and Test App",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/tutorials/build-app-in-5-minutes/preview-test-app.md",
+  "sourceDirName": "tutorials/build-app-in-5-minutes",
+  "slug": "/tutorials/build-app-in-5-minutes/preview-test-app",
+  "permalink": "/learn/v10.15/tutorials/build-app-in-5-minutes/preview-test-app",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/tutorials/build-app-in-5-minutes/preview-test-app.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Preview and Test App",
+    "id": "preview-test-app"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Connecting Datasource to Widget",
+    "permalink": "/learn/v10.15/tutorials/build-app-in-5-minutes/connecting-datasource-to-widget"
+  },
+  "next": {
+    "title": "Essentials",
+    "permalink": "/learn/v10.15/category/essentials"
+  }
+}

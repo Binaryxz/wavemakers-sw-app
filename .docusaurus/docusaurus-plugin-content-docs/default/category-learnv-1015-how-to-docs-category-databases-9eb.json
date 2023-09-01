@@ -1,0 +1,15 @@
+{
+  "title": "Databases",
+  "slug": "/category/databases-1",
+  "permalink": "/learn/v10.15/category/databases-1",
+  "navigation": {
+    "previous": {
+      "title": "Customizing Post Authentication Handlers",
+      "permalink": "/learn/v10.15/how-tos/customizing-post-authentication-handlers"
+    },
+    "next": {
+      "title": "Queries with Dynamic Where Clause",
+      "permalink": "/learn/v10.15/how-tos/queries-dynamic-clause"
+    }
+  }
+}

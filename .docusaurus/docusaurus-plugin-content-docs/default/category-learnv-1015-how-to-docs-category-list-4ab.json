@@ -1,0 +1,15 @@
+{
+  "title": "List",
+  "slug": "/category/list",
+  "permalink": "/learn/v10.15/category/list",
+  "navigation": {
+    "previous": {
+      "title": "Edit DataTable records bound to Query API",
+      "permalink": "/learn/v10.15/how-tos/edit-datatable-bound-to-queryapi"
+    },
+    "next": {
+      "title": "Creating an Employee List grouped by City",
+      "permalink": "/learn/v10.15/how-tos/list-grouped"
+    }
+  }
+}

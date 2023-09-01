@@ -1,0 +1,15 @@
+{
+  "title": "Prefabs",
+  "slug": "/category/prefabs-1",
+  "permalink": "/learn/v10.15/category/prefabs-1",
+  "navigation": {
+    "previous": {
+      "title": "Barcode Scanner",
+      "permalink": "/learn/v10.15/app-development/widgets/mobile-widgets/barcode-scanner"
+    },
+    "next": {
+      "title": "Prefabs Overview",
+      "permalink": "/learn/v10.15/app-development/custom-widgets/prefabs-overview"
+    }
+  }
+}

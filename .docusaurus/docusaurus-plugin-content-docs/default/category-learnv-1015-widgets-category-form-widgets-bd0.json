@@ -1,0 +1,15 @@
+{
+  "title": "Form Widgets",
+  "slug": "/category/form-widgets",
+  "permalink": "/learn/v10.15/category/form-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Use Cases",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/liveform-use-cases"
+    },
+    "next": {
+      "title": "Button",
+      "permalink": "/learn/v10.15/app-development/widgets/form-widgets/button"
+    }
+  }
+}

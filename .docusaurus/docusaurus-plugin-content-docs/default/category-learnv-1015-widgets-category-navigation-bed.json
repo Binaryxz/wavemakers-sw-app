@@ -1,0 +1,15 @@
+{
+  "title": "Navigation",
+  "slug": "/category/navigation",
+  "permalink": "/learn/v10.15/category/navigation",
+  "navigation": {
+    "previous": {
+      "title": "Callback Event",
+      "permalink": "/learn/v10.15/app-development/widgets/chart/onbeforerender"
+    },
+    "next": {
+      "title": "Nav Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/navigation/nav"
+    }
+  }
+}

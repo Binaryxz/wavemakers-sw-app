@@ -1,0 +1,31 @@
+{
+  "unversionedId": "connectors/connectors-introduction",
+  "id": "version-v10.14/connectors/connectors-introduction",
+  "title": "Connectors",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/connectors/connectors-introduction.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/connectors-introduction",
+  "permalink": "/learn/v10.15/connectors/connectors-introduction",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/connectors/connectors-introduction.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Connectors",
+    "id": "connectors-introduction",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Connectors",
+    "permalink": "/learn/v10.15/category/connectors"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/learn/v10.15/connectors/connectors-architecture"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Radioset",
+  "slug": "/category/radioset",
+  "permalink": "/learn/v10.15/category/radioset",
+  "navigation": {
+    "previous": {
+      "title": "Upload Files from Live Form & Form",
+      "permalink": "/learn/v10.15/how-tos/upload-files-from-live-form-form"
+    },
+    "next": {
+      "title": "Radioset to Filter a List",
+      "permalink": "/learn/v10.15/how-tos/radioset-filter-list"
+    }
+  }
+}

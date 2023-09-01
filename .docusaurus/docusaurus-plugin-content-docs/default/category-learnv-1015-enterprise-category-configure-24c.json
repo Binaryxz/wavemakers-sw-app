@@ -1,0 +1,15 @@
+{
+  "title": "Configure",
+  "slug": "/category/configure",
+  "permalink": "/learn/v10.15/category/configure",
+  "navigation": {
+    "previous": {
+      "title": "Configure Pipeline",
+      "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+    },
+    "next": {
+      "title": "Users Onboarding",
+      "permalink": "/learn/v10.15/on-premise/configure/config-users-auth-providers"
+    }
+  }
+}

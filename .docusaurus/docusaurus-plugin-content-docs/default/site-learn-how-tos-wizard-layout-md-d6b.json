@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/wizard-layout",
+  "id": "how-tos/wizard-layout",
+  "title": "How to Select Widget Template and Set Icon for Wizard Steps",
+  "description": "---",
+  "source": "@site/../learn/how-tos/wizard-layout.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/wizard-layout",
+  "permalink": "/learn/how-tos/wizard-layout",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/wizard-layout.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How to Select Widget Template and Set Icon for Wizard Steps",
+    "id": "wizard-layout",
+    "sidebar_label": "Widget Template and Icons"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Choose Widget Template and Layout",
+    "permalink": "/learn/how-tos/widget-template-layout"
+  },
+  "next": {
+    "title": "Custom Template for Widgets",
+    "permalink": "/learn/how-tos/custom-widget-template"
+  }
+}

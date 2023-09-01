@@ -1,0 +1,15 @@
+{
+  "title": "UI design",
+  "slug": "/category/ui-design",
+  "permalink": "/learn/v10.15/category/ui-design",
+  "navigation": {
+    "previous": {
+      "title": "Enabling PWA",
+      "permalink": "/learn/v10.15/how-tos/building-pwa-app"
+    },
+    "next": {
+      "title": "Passing Parameters to Pages",
+      "permalink": "/learn/v10.15/how-tos/passing-parameters-pages"
+    }
+  }
+}

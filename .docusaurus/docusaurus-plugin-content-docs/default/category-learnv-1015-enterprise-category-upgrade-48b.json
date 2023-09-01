@@ -1,0 +1,15 @@
+{
+  "title": "Upgrade",
+  "slug": "/category/upgrade",
+  "permalink": "/learn/v10.15/category/upgrade",
+  "navigation": {
+    "previous": {
+      "title": "Grafana",
+      "permalink": "/learn/v10.15/on-premise/observability/metrics-collection/grafana"
+    },
+    "next": {
+      "title": "Upgrade Overview",
+      "permalink": "/learn/v10.15/on-premise/upgrade/upgrade-setup"
+    }
+  }
+}

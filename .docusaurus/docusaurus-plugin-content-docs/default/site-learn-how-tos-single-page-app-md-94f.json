@@ -1,0 +1,22 @@
+{
+  "unversionedId": "how-tos/single-page-app",
+  "id": "how-tos/single-page-app",
+  "title": "Single Page App",
+  "description": "---",
+  "source": "@site/../learn/how-tos/single-page-app.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/single-page-app",
+  "permalink": "/learn/how-tos/single-page-app",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/single-page-app.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Single Page App",
+    "id": "single-page-app",
+    "sidebar_label": "Enable SPA"
+  }
+}

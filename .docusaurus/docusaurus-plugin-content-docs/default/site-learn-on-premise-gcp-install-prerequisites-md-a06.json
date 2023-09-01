@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/gcp/install-prerequisites",
+  "id": "on-premise/gcp/install-prerequisites",
+  "title": "Install Prerequisites Softwares",
+  "description": "---",
+  "source": "@site/../learn/on-premise/gcp/install-prerequisites.md",
+  "sourceDirName": "on-premise/gcp",
+  "slug": "/on-premise/gcp/install-prerequisites",
+  "permalink": "/learn/on-premise/gcp/install-prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/gcp/install-prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Install Prerequisites Softwares",
+    "id": "install-prerequisites",
+    "sidebar_label": "Install Prerequisites Softwares"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Prepare Infrastructure",
+    "permalink": "/learn/on-premise/gcp/launching-instances-in-gcp"
+  },
+  "next": {
+    "title": "Non Root WME Execution",
+    "permalink": "/learn/on-premise/aws/non-root-execution"
+  }
+}

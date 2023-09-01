@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/container/layout",
+  "id": "app-development/widgets/container/layout",
+  "title": "Layout",
+  "description": "As the name suggests, Layout widget is used to build scaffold to hold widgets. Underlyingly, this widget uses wm-linearlayout and wm-linearlayoutitem components. Let us understand these components first.",
+  "source": "@site/../learn/app-development/widgets/container/layout.md",
+  "sourceDirName": "app-development/widgets/container",
+  "slug": "/app-development/widgets/container/layout",
+  "permalink": "/learn/app-development/widgets/container/layout",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/widgets/container/layout.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Layout",
+    "id": "layout"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Building a Range Live Filter",
+    "permalink": "/learn/how-tos/live-filter-range-filter"
+  },
+  "next": {
+    "title": "Flex Layout",
+    "permalink": "/learn/app-development/widgets/container/flex-layout"
+  }
+}

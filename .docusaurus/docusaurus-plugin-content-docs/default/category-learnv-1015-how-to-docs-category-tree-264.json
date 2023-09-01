@@ -1,0 +1,15 @@
+{
+  "title": "Tree",
+  "slug": "/category/tree",
+  "permalink": "/learn/v10.15/category/tree",
+  "navigation": {
+    "previous": {
+      "title": "Dynamic Tabs and Accordions",
+      "permalink": "/learn/v10.15/how-tos/dynamic-tabs-accordions"
+    },
+    "next": {
+      "title": "Tree using Static Variable",
+      "permalink": "/learn/v10.15/how-tos/tree-use-case-static-variable"
+    }
+  }
+}

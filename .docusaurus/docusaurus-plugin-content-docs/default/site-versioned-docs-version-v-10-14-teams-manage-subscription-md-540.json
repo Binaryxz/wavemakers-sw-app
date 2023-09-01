@@ -1,0 +1,30 @@
+{
+  "unversionedId": "teams/manage-subscription",
+  "id": "version-v10.14/teams/manage-subscription",
+  "title": "Manage Subscription",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/teams/manage-subscription.md",
+  "sourceDirName": "teams",
+  "slug": "/teams/manage-subscription",
+  "permalink": "/learn/v10.15/teams/manage-subscription",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/teams/manage-subscription.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Subscription",
+    "id": "manage-subscription"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Team Profile",
+    "permalink": "/learn/v10.15/teams/team-profile"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/learn/v10.15/teams/faqs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/vmware-esxi/install/setup-using-cw",
+  "id": "version-v10.14/on-premise/vmware-esxi/install/setup-using-cw",
+  "title": "Setup Using ConfigPortal",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/vmware-esxi/install/setup-using-cw.md",
+  "sourceDirName": "on-premise/vmware-esxi/install",
+  "slug": "/on-premise/vmware-esxi/install/setup-using-cw",
+  "permalink": "/learn/v10.15/on-premise/vmware-esxi/install/setup-using-cw",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/vmware-esxi/install/setup-using-cw.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Setup Using ConfigPortal",
+    "id": "setup-using-cw",
+    "sidebar_label": "Setup Using ConfigPortal"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Initialize Setup",
+    "permalink": "/learn/v10.15/on-premise/vmware-esxi/install/initilize-setup"
+  },
+  "next": {
+    "title": "Apply License",
+    "permalink": "/learn/v10.15/on-premise/vmware-esxi/install/apply-license"
+  }
+}

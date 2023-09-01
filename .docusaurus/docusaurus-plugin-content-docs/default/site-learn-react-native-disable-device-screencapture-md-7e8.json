@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/disable-device-screencapture",
+  "id": "react-native/disable-device-screencapture",
+  "title": "Disable Screen Capture and Recording",
+  "description": "---",
+  "source": "@site/../learn/react-native/disable-device-screencapture.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/disable-device-screencapture",
+  "permalink": "/learn/react-native/disable-device-screencapture",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/disable-device-screencapture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Disable Screen Capture and Recording",
+    "id": "disable-device-screencapture",
+    "sidebar_label": "Disable Screen Capture"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Biometric Authentication",
+    "permalink": "/learn/react-native/integrating-biometric-authentication"
+  },
+  "next": {
+    "title": "Detect Rooted Device",
+    "permalink": "/learn/react-native/detect-rooted-device"
+  }
+}

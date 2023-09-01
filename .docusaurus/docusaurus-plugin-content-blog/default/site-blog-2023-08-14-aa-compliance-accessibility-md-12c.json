@@ -1,0 +1,24 @@
+{
+  "permalink": "/learn/blog/2023/08/14/aa-compliance-accessibility",
+  "source": "@site/blog/2023-08-14-aa-compliance-accessibility.md",
+  "title": "AA Compliant Website Accessibility through WaveMaker Platform",
+  "description": "Enabling AA Compliance for web apps built with WaveMaker requires a concerted effort to implement various accessibility standards across our 100+ widget collection. By following WCAG guidelines, using semantic markup, prioritizing keyboard accessibility, ensuring color contrast, providing alternative text for images, and implementing ARIA attributes, developers can create an inclusive and accessible platform for users of all abilities. Continuous testing, documentation, and training further contribute to the platform's commitment to accessibility and enable a seamless and enriching experience for all users.",
+  "date": "2023-08-14T00:00:00.000Z",
+  "formattedDate": "August 14, 2023",
+  "tags": [],
+  "readingTime": 8.275,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Bhargavi Gunda"
+    }
+  ],
+  "frontMatter": {
+    "title": "AA Compliant Website Accessibility through WaveMaker Platform",
+    "author": "Bhargavi Gunda"
+  },
+  "nextItem": {
+    "title": "Ending Support to WaveMaker 10 Projects",
+    "permalink": "/learn/blog/2023/08/11/wavemaker10x-end-of-support"
+  }
+}

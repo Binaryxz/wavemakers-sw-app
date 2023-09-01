@@ -1,0 +1,15 @@
+{
+  "title": "Richtext Editor",
+  "slug": "/category/richtext-editor",
+  "permalink": "/learn/v10.15/category/richtext-editor",
+  "navigation": {
+    "previous": {
+      "title": "Custom Data",
+      "permalink": "/learn/v10.15/how-tos/charts-custom-data"
+    },
+    "next": {
+      "title": "Adding Custom Fonts to Richtext Editor",
+      "permalink": "/learn/v10.15/how-tos/adding-custom-fonts-richtext-editor"
+    }
+  }
+}

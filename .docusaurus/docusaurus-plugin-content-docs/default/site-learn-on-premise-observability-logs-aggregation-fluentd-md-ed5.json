@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/observability/logs-aggregation/fluentd",
+  "id": "on-premise/observability/logs-aggregation/fluentd",
+  "title": "Fluentd Tags",
+  "description": "---",
+  "source": "@site/../learn/on-premise/observability/logs-aggregation/fluentd.md",
+  "sourceDirName": "on-premise/observability/logs-aggregation",
+  "slug": "/on-premise/observability/logs-aggregation/fluentd",
+  "permalink": "/learn/on-premise/observability/logs-aggregation/fluentd",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/observability/logs-aggregation/fluentd.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Fluentd Tags",
+    "id": "fluentd",
+    "sidebar_label": "fluentd tags"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Kibana",
+    "permalink": "/learn/on-premise/observability/logs-aggregation/kibana"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/learn/on-premise/observability/metrics-collection/overview"
+  }
+}

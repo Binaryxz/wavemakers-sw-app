@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-known-issues",
+  "id": "version-v10.14/wavemaker-known-issues",
+  "title": "WaveMaker Known Issues",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/wavemaker-known-issues.md",
+  "sourceDirName": ".",
+  "slug": "/wavemaker-known-issues",
+  "permalink": "/learn/v10.15/wavemaker-known-issues",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/wavemaker-known-issues.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker Known Issues",
+    "id": "wavemaker-known-issues",
+    "sidebar_label": "Known Issues"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "WaveMaker Release Notes",
+    "permalink": "/learn/v10.15/wavemaker-release-notes"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/learn/v10.15/category/release-notes"
+  }
+}

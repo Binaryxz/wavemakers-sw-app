@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-1-2",
+  "id": "wavemaker-release-notes/v11-1-2",
+  "title": "WaveMaker 11.1.2 - Release date: 26 September 2022",
+  "description": "WaveMaker released an update about Layout and Flex in Cordova, React Native fixes for Style, Form, Chart, and other bug fixes.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-1-2.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-1-2",
+  "permalink": "/learn/wavemaker-release-notes/v11-1-2",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-1-2.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.1.2 - Release date: 26 September 2022",
+    "id": "v11-1-2",
+    "sidebar_label": "v11.1.2"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.1.3",
+    "permalink": "/learn/wavemaker-release-notes/v11-1-3"
+  },
+  "next": {
+    "title": "v11.1.1",
+    "permalink": "/learn/wavemaker-release-notes/v11-1-1"
+  }
+}

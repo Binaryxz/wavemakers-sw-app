@@ -1,0 +1,15 @@
+{
+  "title": "Release Notes",
+  "slug": "/category/release-notes",
+  "permalink": "/learn/v10.15/category/release-notes",
+  "navigation": {
+    "previous": {
+      "title": "Known Issues",
+      "permalink": "/learn/v10.15/wavemaker-known-issues"
+    },
+    "next": {
+      "title": "Release v10.14.0",
+      "permalink": "/learn/v10.15/wavemaker-release-notes/v10-14-0"
+    }
+  }
+}

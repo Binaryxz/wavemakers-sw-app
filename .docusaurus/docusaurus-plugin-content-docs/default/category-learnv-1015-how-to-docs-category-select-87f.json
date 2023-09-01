@@ -1,0 +1,15 @@
+{
+  "title": "Select",
+  "slug": "/category/select",
+  "permalink": "/learn/v10.15/category/select",
+  "navigation": {
+    "previous": {
+      "title": "Building an Interactive Rating Widget",
+      "permalink": "/learn/v10.15/how-tos/rating-widget-interactive"
+    },
+    "next": {
+      "title": "Configuring Select Widget from a Static List of Values",
+      "permalink": "/learn/v10.15/how-tos/configuring-select-widget-static-list-values"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/variables/variables",
+  "id": "version-v10.14/app-development/variables/variables",
+  "title": "Variables Overview",
+  "description": "Learn about Variables in WaveMaker low-code platform. See how it works and how to use them as services.",
+  "source": "@site/versioned_docs/version-v10.14/app-development/variables/variables.md",
+  "sourceDirName": "app-development/variables",
+  "slug": "/app-development/variables/",
+  "permalink": "/learn/v10.15/app-development/variables/",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/variables/variables.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Variables Overview",
+    "id": "variables",
+    "sidebar_label": "Variables Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Variables & Actions",
+    "permalink": "/learn/v10.15/category/variables--actions"
+  },
+  "next": {
+    "title": "Model Variable",
+    "permalink": "/learn/v10.15/app-development/variables/model-variable"
+  }
+}

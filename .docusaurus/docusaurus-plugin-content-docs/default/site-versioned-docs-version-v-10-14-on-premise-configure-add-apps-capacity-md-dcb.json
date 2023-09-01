@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/configure/add-apps-capacity",
+  "id": "version-v10.14/on-premise/configure/add-apps-capacity",
+  "title": "WME Add Apps Capacity",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/configure/add-apps-capacity.md",
+  "sourceDirName": "on-premise/configure",
+  "slug": "/on-premise/configure/add-apps-capacity",
+  "permalink": "/learn/v10.15/on-premise/configure/add-apps-capacity",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/configure/add-apps-capacity.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WME Add Apps Capacity",
+    "id": "add-apps-capacity",
+    "sidebar_label": "Add Apps Capacity"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Add Developer Capacity",
+    "permalink": "/learn/v10.15/on-premise/configure/add-dev-capacity"
+  },
+  "next": {
+    "title": "Configure Pipeline",
+    "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+  }
+}

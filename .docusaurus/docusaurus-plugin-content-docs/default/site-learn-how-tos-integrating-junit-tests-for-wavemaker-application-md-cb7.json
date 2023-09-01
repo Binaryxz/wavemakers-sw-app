@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/integrating-junit-tests-for-wavemaker-application",
+  "id": "how-tos/integrating-junit-tests-for-wavemaker-application",
+  "title": "Integrating JUnit Tests for WaveMaker Application",
+  "description": "---",
+  "source": "@site/../learn/how-tos/integrating-junit-tests-for-wavemaker-application.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/integrating-junit-tests-for-wavemaker-application",
+  "permalink": "/learn/how-tos/integrating-junit-tests-for-wavemaker-application",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/integrating-junit-tests-for-wavemaker-application.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating JUnit Tests for WaveMaker Application",
+    "id": "integrating-junit-tests-for-wavemaker-application"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "How to generate PDF File using Jasper Reports",
+    "permalink": "/learn/how-tos/generate-pdf-file-using-jasper-reports"
+  },
+  "next": {
+    "title": "Pre-Post Processing for Database Service APIs",
+    "permalink": "/learn/how-tos/pre-post-processing-db-service-apis"
+  }
+}

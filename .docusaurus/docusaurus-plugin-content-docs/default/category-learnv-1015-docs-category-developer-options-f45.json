@@ -1,0 +1,15 @@
+{
+  "title": "Developer options",
+  "slug": "/category/developer-options",
+  "permalink": "/learn/v10.15/category/developer-options",
+  "navigation": {
+    "previous": {
+      "title": "Security Service APIs",
+      "permalink": "/learn/v10.15/app-development/services/api-designer/security-service-apis"
+    },
+    "next": {
+      "title": "Test and Run (Preview) Apps",
+      "permalink": "/learn/v10.15/app-development/dev-integration/developer-tools"
+    }
+  }
+}

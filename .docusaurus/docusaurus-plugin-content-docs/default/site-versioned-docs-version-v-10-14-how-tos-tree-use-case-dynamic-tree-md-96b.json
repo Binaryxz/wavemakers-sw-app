@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/tree-use-case-dynamic-tree",
+  "id": "version-v10.14/how-tos/tree-use-case-dynamic-tree",
+  "title": "Tree Use Case - Dynamic Tree",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/tree-use-case-dynamic-tree.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/tree-use-case-dynamic-tree",
+  "permalink": "/learn/v10.15/how-tos/tree-use-case-dynamic-tree",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/tree-use-case-dynamic-tree.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Tree Use Case - Dynamic Tree",
+    "id": "tree-use-case-dynamic-tree",
+    "sidebar_label": "Tree using Dynamic Tree"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Tree using Java Service",
+    "permalink": "/learn/v10.15/how-tos/tree-use-case-java-service"
+  },
+  "next": {
+    "title": "Prefabs",
+    "permalink": "/learn/v10.15/category/prefabs"
+  }
+}

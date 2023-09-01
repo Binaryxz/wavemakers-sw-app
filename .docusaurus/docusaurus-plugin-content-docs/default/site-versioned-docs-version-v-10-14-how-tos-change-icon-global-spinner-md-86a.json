@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/change-icon-global-spinner",
+  "id": "version-v10.14/how-tos/change-icon-global-spinner",
+  "title": "Change Icon for the Global Spinner",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/change-icon-global-spinner.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/change-icon-global-spinner",
+  "permalink": "/learn/v10.15/how-tos/change-icon-global-spinner",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/change-icon-global-spinner.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Change Icon for the Global Spinner",
+    "id": "change-icon-global-spinner"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Change Icon Color on Condition",
+    "permalink": "/learn/v10.15/how-tos/displaying-icon-color-based-upon-condition"
+  },
+  "next": {
+    "title": "Changing Default Favicon",
+    "permalink": "/learn/v10.15/how-tos/changing-default-favicon"
+  }
+}

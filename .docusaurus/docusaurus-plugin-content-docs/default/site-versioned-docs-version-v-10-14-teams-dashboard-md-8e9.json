@@ -1,0 +1,30 @@
+{
+  "unversionedId": "teams/dashboard",
+  "id": "version-v10.14/teams/dashboard",
+  "title": "Dashboard",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/teams/dashboard.md",
+  "sourceDirName": "teams",
+  "slug": "/teams/dashboard",
+  "permalink": "/learn/v10.15/teams/dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/teams/dashboard.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dashboard",
+    "id": "dashboard"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Team Setup",
+    "permalink": "/learn/v10.15/teams/team-setup"
+  },
+  "next": {
+    "title": "Manage Users",
+    "permalink": "/learn/v10.15/teams/manage-users"
+  }
+}

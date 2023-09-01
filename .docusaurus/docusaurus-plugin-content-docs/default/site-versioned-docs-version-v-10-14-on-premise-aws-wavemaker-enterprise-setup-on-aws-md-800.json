@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/aws/wavemaker-enterprise-setup-on-aws",
+  "id": "version-v10.14/on-premise/aws/wavemaker-enterprise-setup-on-aws",
+  "title": "WaveMaker Enterprise Setup Process on AWS",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/aws/wavemaker-enterprise-setup-on-aws.md",
+  "sourceDirName": "on-premise/aws",
+  "slug": "/on-premise/aws/wavemaker-enterprise-setup-on-aws",
+  "permalink": "/learn/v10.15/on-premise/aws/wavemaker-enterprise-setup-on-aws",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/aws/wavemaker-enterprise-setup-on-aws.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker Enterprise Setup Process on AWS",
+    "id": "wavemaker-enterprise-setup-on-aws",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Install on AWS",
+    "permalink": "/learn/v10.15/category/install-on-aws"
+  },
+  "next": {
+    "title": "Prepare Infrastructure",
+    "permalink": "/learn/v10.15/on-premise/aws/launching-instances-in-aws"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "hybrid-mobile/mobile-page-concepts",
+  "id": "version-v10.14/hybrid-mobile/mobile-page-concepts",
+  "title": "Mobile Page Design",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/hybrid-mobile/mobile-page-concepts.md",
+  "sourceDirName": "hybrid-mobile",
+  "slug": "/hybrid-mobile/mobile-page-concepts",
+  "permalink": "/learn/v10.15/hybrid-mobile/mobile-page-concepts",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/hybrid-mobile/mobile-page-concepts.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Mobile Page Design",
+    "id": "mobile-page-concepts",
+    "sidebar_label": "Mobile Page Design"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "First Mobile App",
+    "permalink": "/learn/v10.15/hybrid-mobile/first-mobile-app"
+  },
+  "next": {
+    "title": "Gesture Support",
+    "permalink": "/learn/v10.15/hybrid-mobile/gesture-support"
+  }
+}

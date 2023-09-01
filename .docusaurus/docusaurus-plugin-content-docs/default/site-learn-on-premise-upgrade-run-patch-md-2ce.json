@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/upgrade/run-patch",
+  "id": "on-premise/upgrade/run-patch",
+  "title": "WME Run Patch",
+  "description": "---",
+  "source": "@site/../learn/on-premise/upgrade/run-patch.md",
+  "sourceDirName": "on-premise/upgrade",
+  "slug": "/on-premise/upgrade/run-patch",
+  "permalink": "/learn/on-premise/upgrade/run-patch",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/upgrade/run-patch.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WME Run Patch",
+    "id": "run-patch",
+    "sidebar_label": "Run Patch"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Passivate Containers",
+    "permalink": "/learn/on-premise/upgrade/passivate-containers"
+  },
+  "next": {
+    "title": "Docker Upgrade",
+    "permalink": "/learn/on-premise/upgrade/docker-upgrade"
+  }
+}

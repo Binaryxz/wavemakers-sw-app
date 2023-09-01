@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-3-0",
+  "id": "wavemaker-release-notes/v11-3-0",
+  "title": "WaveMaker 11.3.0 - Release date: 17 April 2023",
+  "description": "We are ready with another minor release version 11.3.0.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-3-0.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-3-0",
+  "permalink": "/learn/wavemaker-release-notes/v11-3-0",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-3-0.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.3.0 - Release date: 17 April 2023",
+    "id": "v11-3-0",
+    "sidebar_label": "v11.3.0"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.3.2",
+    "permalink": "/learn/wavemaker-release-notes/v11-3-2"
+  },
+  "next": {
+    "title": "v11.2.5",
+    "permalink": "/learn/wavemaker-release-notes/v11-2-5"
+  }
+}

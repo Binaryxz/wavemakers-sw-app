@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/passing-parameters-pages",
+  "id": "version-v10.14/how-tos/passing-parameters-pages",
+  "title": "Passing Parameters to Pages",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/passing-parameters-pages.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/passing-parameters-pages",
+  "permalink": "/learn/v10.15/how-tos/passing-parameters-pages",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/passing-parameters-pages.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Passing Parameters to Pages",
+    "id": "passing-parameters-pages"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "UI design",
+    "permalink": "/learn/v10.15/category/ui-design"
+  },
+  "next": {
+    "title": "Passing Parameters to Partial Page",
+    "permalink": "/learn/v10.15/how-tos/passing-parameters-partial-page"
+  }
+}

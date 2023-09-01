@@ -1,0 +1,15 @@
+{
+  "title": "Container",
+  "slug": "/category/container",
+  "permalink": "/learn/v10.15/category/container",
+  "navigation": {
+    "previous": {
+      "title": "Building a Range Live Filter",
+      "permalink": "/learn/v10.15/how-tos/live-filter-range-filter"
+    },
+    "next": {
+      "title": "Setting partial page content for Accordion within a List",
+      "permalink": "/learn/v10.15/how-tos/setting-partial-page-content-accordion-within-list"
+    }
+  }
+}

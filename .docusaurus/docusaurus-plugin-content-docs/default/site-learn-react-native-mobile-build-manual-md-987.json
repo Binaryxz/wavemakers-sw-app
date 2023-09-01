@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/mobile-build-manual",
+  "id": "react-native/mobile-build-manual",
+  "title": "React Native - Mobile Build using the command line or for integrating with automated build tools",
+  "description": "---",
+  "source": "@site/../learn/react-native/mobile-build-manual.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/mobile-build-manual",
+  "permalink": "/learn/react-native/mobile-build-manual",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/mobile-build-manual.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "React Native - Mobile Build using the command line or for integrating with automated build tools",
+    "id": "mobile-build-manual",
+    "sidebar_label": "Manual Build"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Build Installers",
+    "permalink": "/learn/react-native/build-installers"
+  },
+  "next": {
+    "title": "Third-party expo plugins",
+    "permalink": "/learn/react-native/third-party-expo-plugins"
+  }
+}

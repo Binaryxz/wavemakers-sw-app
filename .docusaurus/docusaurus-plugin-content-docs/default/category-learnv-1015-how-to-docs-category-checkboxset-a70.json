@@ -1,0 +1,15 @@
+{
+  "title": "CheckboxSet",
+  "slug": "/category/checkboxset",
+  "permalink": "/learn/v10.15/category/checkboxset",
+  "navigation": {
+    "previous": {
+      "title": "Calender Usage - Google Calendar Integration",
+      "permalink": "/learn/v10.15/how-tos/calender-usage-google-calendar-integration"
+    },
+    "next": {
+      "title": "CheckboxSet to Filter List data",
+      "permalink": "/learn/v10.15/how-tos/checkboxset-filter-list-data"
+    }
+  }
+}

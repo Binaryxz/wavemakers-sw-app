@@ -1,0 +1,15 @@
+{
+  "title": "Web services",
+  "slug": "/category/web-services",
+  "permalink": "/learn/v10.15/category/web-services",
+  "navigation": {
+    "previous": {
+      "title": "Custom Logic DB Event Listeners",
+      "permalink": "/learn/v10.15/how-tos/custom-business-logic-using-crud-event-listeners"
+    },
+    "next": {
+      "title": "Using App Environment Properties",
+      "permalink": "/learn/v10.15/how-tos/using-app-environment-properties"
+    }
+  }
+}

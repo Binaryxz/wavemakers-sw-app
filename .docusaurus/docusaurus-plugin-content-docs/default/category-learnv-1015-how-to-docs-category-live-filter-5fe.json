@@ -1,0 +1,15 @@
+{
+  "title": "Live filter",
+  "slug": "/category/live-filter",
+  "permalink": "/learn/v10.15/category/live-filter",
+  "navigation": {
+    "previous": {
+      "title": "Adding Custom Fonts to Richtext Editor",
+      "permalink": "/learn/v10.15/how-tos/adding-custom-fonts-richtext-editor"
+    },
+    "next": {
+      "title": "Applying Live Filter to a Data Table or a Chart",
+      "permalink": "/learn/v10.15/how-tos/live-filter-applying"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Mobile & Device Widgets",
+  "slug": "/category/mobile--device-widgets",
+  "permalink": "/learn/v10.15/category/mobile--device-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Login Dialog",
+      "permalink": "/learn/v10.15/app-development/widgets/login-dialog"
+    },
+    "next": {
+      "title": "Camera",
+      "permalink": "/learn/v10.15/app-development/widgets/mobile-widgets/camera"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Charts",
+  "slug": "/category/charts-1",
+  "permalink": "/learn/v10.15/category/charts-1",
+  "navigation": {
+    "previous": {
+      "title": "Progress Circle",
+      "permalink": "/learn/v10.15/app-development/widgets/progress-circle"
+    },
+    "next": {
+      "title": "Chart Widgets",
+      "permalink": "/learn/v10.15/app-development/widgets/chart/chart-widget"
+    }
+  }
+}

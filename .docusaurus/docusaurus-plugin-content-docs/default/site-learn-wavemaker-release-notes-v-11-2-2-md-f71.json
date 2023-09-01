@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-2-2",
+  "id": "wavemaker-release-notes/v11-2-2",
+  "title": "WaveMaker 11.2.2 - Release date: 16 January 2023",
+  "description": "This release includes MockingBird support for Enterprise users, formatting fixes, and mobile app logout issue.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-2-2.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-2-2",
+  "permalink": "/learn/wavemaker-release-notes/v11-2-2",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-2-2.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.2.2 - Release date: 16 January 2023",
+    "id": "v11-2-2",
+    "sidebar_label": "v11.2.2"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.2.4",
+    "permalink": "/learn/wavemaker-release-notes/v11-2-4"
+  },
+  "next": {
+    "title": "v11.2.1",
+    "permalink": "/learn/wavemaker-release-notes/v11-2-1"
+  }
+}

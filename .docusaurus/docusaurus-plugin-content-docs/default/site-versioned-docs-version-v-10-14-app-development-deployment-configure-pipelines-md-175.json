@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/deployment/configure-pipelines",
+  "id": "version-v10.14/app-development/deployment/configure-pipelines",
+  "title": "Configure Pipeline in WME",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/deployment/configure-pipelines.md",
+  "sourceDirName": "app-development/deployment",
+  "slug": "/app-development/deployment/configure-pipelines",
+  "permalink": "/learn/v10.15/app-development/deployment/configure-pipelines",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/deployment/configure-pipelines.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configure Pipeline in WME",
+    "id": "configure-pipelines"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Default Pipelines in WMO",
+    "permalink": "/learn/v10.15/app-development/deployment/default-pipelines"
+  },
+  "next": {
+    "title": "AWS",
+    "permalink": "/learn/v10.15/app-development/deployment/deployment-to-aws"
+  }
+}

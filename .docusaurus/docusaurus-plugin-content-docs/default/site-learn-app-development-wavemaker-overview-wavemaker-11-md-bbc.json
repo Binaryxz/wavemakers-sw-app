@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/wavemaker-overview/wavemaker-11",
+  "id": "app-development/wavemaker-overview/wavemaker-11",
+  "title": "WaveMaker 11",
+  "description": "---",
+  "source": "@site/../learn/app-development/wavemaker-overview/wavemaker-11.md",
+  "sourceDirName": "app-development/wavemaker-overview",
+  "slug": "/app-development/wavemaker-overview/wavemaker-11",
+  "permalink": "/learn/app-development/wavemaker-overview/wavemaker-11",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/wavemaker-overview/wavemaker-11.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11",
+    "id": "wavemaker-11",
+    "sidebar_label": "WaveMaker 11"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "Enterprise Release (WME)",
+    "permalink": "/learn/enterprise-release-notes"
+  },
+  "next": {
+    "title": "11 beta",
+    "permalink": "/learn/app-development/wavemaker-overview/wavemaker-11-beta"
+  }
+}

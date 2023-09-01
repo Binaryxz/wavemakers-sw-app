@@ -1,0 +1,15 @@
+{
+  "title": "Install on GCP",
+  "slug": "/category/install-on-gcp",
+  "permalink": "/learn/v10.15/category/install-on-gcp",
+  "navigation": {
+    "previous": {
+      "title": "Configure Pipeline",
+      "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/on-premise/gcp/wavemaker-enterprise-setup-on-gcp"
+    }
+  }
+}

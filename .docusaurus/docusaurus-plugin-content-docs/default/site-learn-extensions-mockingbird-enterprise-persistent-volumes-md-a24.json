@@ -1,0 +1,31 @@
+{
+  "unversionedId": "extensions/mockingbird/enterprise/persistent-volumes",
+  "id": "extensions/mockingbird/enterprise/persistent-volumes",
+  "title": "Creating Persisted Volumes",
+  "description": "---",
+  "source": "@site/../learn/extensions/mockingbird/enterprise/persistent-volumes.md",
+  "sourceDirName": "extensions/mockingbird/enterprise",
+  "slug": "/extensions/mockingbird/enterprise/persistent-volumes",
+  "permalink": "/learn/extensions/mockingbird/enterprise/persistent-volumes",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/extensions/mockingbird/enterprise/persistent-volumes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Creating Persisted Volumes",
+    "id": "persistent-volumes",
+    "sidebar_label": "Volume Creation"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "What you'll need",
+    "permalink": "/learn/extensions/mockingbird/enterprise/prerequisites"
+  },
+  "next": {
+    "title": "Install",
+    "permalink": "/learn/extensions/mockingbird/enterprise/install"
+  }
+}

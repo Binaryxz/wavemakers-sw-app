@@ -1,0 +1,15 @@
+{
+  "title": "Nav & Dropdown",
+  "slug": "/category/nav--dropdown",
+  "permalink": "/learn/v10.15/category/nav--dropdown",
+  "navigation": {
+    "previous": {
+      "title": "Apply Custom Data Formatter",
+      "permalink": "/learn/v10.15/how-tos/using-custom-formatter"
+    },
+    "next": {
+      "title": "Dynamic Menu based on User Role",
+      "permalink": "/learn/v10.15/how-tos/dynamic-menu-based-user-role"
+    }
+  }
+}

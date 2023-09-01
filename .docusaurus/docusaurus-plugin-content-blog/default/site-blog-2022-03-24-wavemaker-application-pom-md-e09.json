@@ -1,0 +1,28 @@
+{
+  "permalink": "/learn/blog/2022/03/24/wavemaker-application-pom",
+  "source": "@site/blog/2022-03-24-wavemaker-application-pom.md",
+  "title": "WaveMaker application pom.xml",
+  "description": "WaveMaker application encloses a pom.xml. It maintains the build resources, including filters, profiles, repositories, plugin management, dependencies, and user customizations.",
+  "date": "2022-03-24T00:00:00.000Z",
+  "formattedDate": "March 24, 2022",
+  "tags": [],
+  "readingTime": 2.3,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Praveen Chandra"
+    }
+  ],
+  "frontMatter": {
+    "title": "WaveMaker application pom.xml",
+    "author": "Praveen Chandra"
+  },
+  "prevItem": {
+    "title": "Upgrading saml to saml2-service-provider",
+    "permalink": "/learn/blog/2022/03/24/saml-library-upgrade"
+  },
+  "nextItem": {
+    "title": "Archiving WaveMaker 9 Projects",
+    "permalink": "/learn/blog/2022/02/01/archiving-9-projects"
+  }
+}

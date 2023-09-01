@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/aws/non-root-execution",
+  "id": "on-premise/aws/non-root-execution",
+  "title": "Non Root WME Execution",
+  "description": "---",
+  "source": "@site/../learn/on-premise/aws/platform-setup-with-non-root-execution.md",
+  "sourceDirName": "on-premise/aws",
+  "slug": "/on-premise/aws/non-root-execution",
+  "permalink": "/learn/on-premise/aws/non-root-execution",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/aws/platform-setup-with-non-root-execution.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Non Root WME Execution",
+    "id": "non-root-execution",
+    "sidebar_label": "Non Root WME Execution"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Install Prerequisites Softwares",
+    "permalink": "/learn/on-premise/aws/install-prerequisites"
+  },
+  "next": {
+    "title": "Download and Copy Installer",
+    "permalink": "/learn/on-premise/aws/install/download-copy-installer"
+  }
+}

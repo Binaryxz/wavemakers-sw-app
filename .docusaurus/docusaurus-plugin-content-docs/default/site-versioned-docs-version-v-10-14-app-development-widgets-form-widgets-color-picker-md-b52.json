@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/form-widgets/color-picker",
+  "id": "version-v10.14/app-development/widgets/form-widgets/color-picker",
+  "title": "Color Picker",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/form-widgets/color-picker.md",
+  "sourceDirName": "app-development/widgets/form-widgets",
+  "slug": "/app-development/widgets/form-widgets/color-picker",
+  "permalink": "/learn/v10.15/app-development/widgets/form-widgets/color-picker",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/form-widgets/color-picker.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Color Picker",
+    "id": "color-picker"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "FileUpload",
+    "permalink": "/learn/v10.15/app-development/widgets/form-widgets/file-upload"
+  },
+  "next": {
+    "title": "Slider",
+    "permalink": "/learn/v10.15/app-development/widgets/form-widgets/slider"
+  }
+}

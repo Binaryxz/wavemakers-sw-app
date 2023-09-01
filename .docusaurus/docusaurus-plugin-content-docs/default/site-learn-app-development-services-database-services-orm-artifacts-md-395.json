@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/services/database-services/orm-artifacts",
+  "id": "app-development/services/database-services/orm-artifacts",
+  "title": "ORM Artifacts",
+  "description": "---",
+  "source": "@site/../learn/app-development/services/database-services/orm-artifacts.md",
+  "sourceDirName": "app-development/services/database-services",
+  "slug": "/app-development/services/database-services/orm-artifacts",
+  "permalink": "/learn/app-development/services/database-services/orm-artifacts",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/services/database-services/orm-artifacts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "ORM Artifacts",
+    "id": "orm-artifacts"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Accessing Database",
+    "permalink": "/learn/app-development/services/database-access"
+  },
+  "next": {
+    "title": "Working with Queries",
+    "permalink": "/learn/app-development/services/database-services/working-with-queries"
+  }
+}

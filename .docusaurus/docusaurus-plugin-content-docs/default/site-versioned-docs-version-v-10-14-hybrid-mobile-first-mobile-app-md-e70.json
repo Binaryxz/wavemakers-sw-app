@@ -1,0 +1,31 @@
+{
+  "unversionedId": "hybrid-mobile/first-mobile-app",
+  "id": "version-v10.14/hybrid-mobile/first-mobile-app",
+  "title": "Build your First Mobile App",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/hybrid-mobile/first-mobile-app.md",
+  "sourceDirName": "hybrid-mobile",
+  "slug": "/hybrid-mobile/first-mobile-app",
+  "permalink": "/learn/v10.15/hybrid-mobile/first-mobile-app",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/hybrid-mobile/first-mobile-app.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Build your First Mobile App",
+    "id": "first-mobile-app",
+    "sidebar_label": "First Mobile App"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Native Device Support",
+    "permalink": "/learn/v10.15/hybrid-mobile/native-device-support"
+  },
+  "next": {
+    "title": "Mobile Page Design",
+    "permalink": "/learn/v10.15/hybrid-mobile/mobile-page-concepts"
+  }
+}

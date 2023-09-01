@@ -1,0 +1,15 @@
+{
+  "title": "Calendar",
+  "slug": "/category/calendar",
+  "permalink": "/learn/v10.15/category/calendar",
+  "navigation": {
+    "previous": {
+      "title": "Smart Forms: Conditional Flows for form Widget",
+      "permalink": "/learn/v10.15/how-tos/form-conditional-flows"
+    },
+    "next": {
+      "title": "How Tos: Calendar",
+      "permalink": "/learn/v10.15/how-tos/how-tos-calendar"
+    }
+  }
+}

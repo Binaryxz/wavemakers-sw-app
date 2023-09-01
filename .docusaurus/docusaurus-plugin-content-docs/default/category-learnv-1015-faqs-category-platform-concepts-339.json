@@ -1,0 +1,15 @@
+{
+  "title": "Platform Concepts",
+  "slug": "/category/platform-concepts",
+  "permalink": "/learn/v10.15/category/platform-concepts",
+  "navigation": {
+    "previous": {
+      "title": "Is WaveMaker App scalable",
+      "permalink": "/learn/v10.15/app-development/wavemaker-app-development-faqs/is-wavemaker-app-scalable"
+    },
+    "next": {
+      "title": "Platform",
+      "permalink": "/learn/v10.15/app-development/wavemaker-overview/platform-overview"
+    }
+  }
+}

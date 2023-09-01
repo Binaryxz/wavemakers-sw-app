@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/upgrade/os-upgrade",
+  "id": "version-v10.14/on-premise/upgrade/os-upgrade",
+  "title": "OS Upgrade",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/on-premise/upgrade/os-upgrade.md",
+  "sourceDirName": "on-premise/upgrade",
+  "slug": "/on-premise/upgrade/os-upgrade",
+  "permalink": "/learn/v10.15/on-premise/upgrade/os-upgrade",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/on-premise/upgrade/os-upgrade.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "OS Upgrade",
+    "id": "os-upgrade",
+    "sidebar_label": "OS Upgrade"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Docker Upgrade",
+    "permalink": "/learn/v10.15/on-premise/upgrade/docker-upgrade"
+  },
+  "next": {
+    "title": "Disaster Recovery",
+    "permalink": "/learn/v10.15/category/disaster-recovery"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Developer options",
+  "slug": "/category/developer-options-1",
+  "permalink": "/learn/v10.15/category/developer-options-1",
+  "navigation": {
+    "previous": {
+      "title": "Using function for evaluating conditions",
+      "permalink": "/learn/v10.15/how-tos/using-function-evaluating-conditions"
+    },
+    "next": {
+      "title": "Synchronizing WaveMaker Apps with IDEs",
+      "permalink": "/learn/v10.15/how-tos/synchronizing-wavemaker-apps-ides-beta"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Databases",
+  "slug": "/category/databases",
+  "permalink": "/learn/v10.15/category/databases",
+  "navigation": {
+    "previous": {
+      "title": "Micro Frontend App",
+      "permalink": "/learn/v10.15/app-development/sspa/micro-frontend"
+    },
+    "next": {
+      "title": "Database Services Overview",
+      "permalink": "/learn/v10.15/app-development/services/database-services/"
+    }
+  }
+}

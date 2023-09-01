@@ -1,0 +1,15 @@
+{
+  "title": "Cards",
+  "slug": "/category/cards",
+  "permalink": "/learn/v10.15/category/cards",
+  "navigation": {
+    "previous": {
+      "title": "Custom Date Picker in Mobile",
+      "permalink": "/learn/v10.15/how-tos/custom-date-picker"
+    },
+    "next": {
+      "title": "Capturing Card Items",
+      "permalink": "/learn/v10.15/how-tos/capturing-card-items"
+    }
+  }
+}

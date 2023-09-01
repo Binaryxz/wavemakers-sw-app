@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/upgrade/passivate-containers",
+  "id": "on-premise/upgrade/passivate-containers",
+  "title": "Passivate Containers",
+  "description": "---",
+  "source": "@site/../learn/on-premise/upgrade/passivate-containers.md",
+  "sourceDirName": "on-premise/upgrade",
+  "slug": "/on-premise/upgrade/passivate-containers",
+  "permalink": "/learn/on-premise/upgrade/passivate-containers",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/upgrade/passivate-containers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Passivate Containers",
+    "id": "passivate-containers",
+    "sidebar_label": "Passivate Containers"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Extract Package",
+    "permalink": "/learn/on-premise/upgrade/extract-patch"
+  },
+  "next": {
+    "title": "Run Patch",
+    "permalink": "/learn/on-premise/upgrade/run-patch"
+  }
+}

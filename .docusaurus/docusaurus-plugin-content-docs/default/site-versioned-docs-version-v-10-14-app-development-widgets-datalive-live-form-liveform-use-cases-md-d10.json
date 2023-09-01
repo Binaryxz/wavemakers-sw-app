@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/datalive/live-form/liveform-use-cases",
+  "id": "version-v10.14/app-development/widgets/datalive/live-form/liveform-use-cases",
+  "title": "Live Form - Use Cases",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/datalive/live-form/liveform-use-cases.md",
+  "sourceDirName": "app-development/widgets/datalive/live-form",
+  "slug": "/app-development/widgets/datalive/live-form/liveform-use-cases",
+  "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/liveform-use-cases",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/datalive/live-form/liveform-use-cases.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Live Form - Use Cases",
+    "id": "liveform-use-cases",
+    "sidebar_label": "Use Cases"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Events & Methods",
+    "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/events-methods"
+  },
+  "next": {
+    "title": "Form Widgets",
+    "permalink": "/learn/v10.15/category/form-widgets"
+  }
+}

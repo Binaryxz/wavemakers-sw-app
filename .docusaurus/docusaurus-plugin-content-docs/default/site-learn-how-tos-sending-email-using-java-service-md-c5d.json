@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/sending-email-using-java-service",
+  "id": "how-tos/sending-email-using-java-service",
+  "title": "Sending Email using WaveMaker Connector",
+  "description": "---",
+  "source": "@site/../learn/how-tos/sending-email-using-java-service.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/sending-email-using-java-service",
+  "permalink": "/learn/how-tos/sending-email-using-java-service",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/sending-email-using-java-service.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Sending Email using WaveMaker Connector",
+    "id": "sending-email-using-java-service"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "UI for API Server-side Pagination",
+    "permalink": "/learn/how-tos/adding-ui-for-api-server-side-pagination"
+  },
+  "next": {
+    "title": "Implementing Forgot Password feature using Java Service",
+    "permalink": "/learn/how-tos/implementing-forgot-password-feature-using-java-service"
+  }
+}

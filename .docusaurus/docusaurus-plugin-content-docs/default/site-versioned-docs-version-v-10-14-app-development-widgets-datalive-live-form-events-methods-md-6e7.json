@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/datalive/live-form/events-methods",
+  "id": "version-v10.14/app-development/widgets/datalive/live-form/events-methods",
+  "title": "Live Form - Events & Methods",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/datalive/live-form/events-methods.md",
+  "sourceDirName": "app-development/widgets/datalive/live-form",
+  "slug": "/app-development/widgets/datalive/live-form/events-methods",
+  "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/events-methods",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/datalive/live-form/events-methods.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Live Form - Events & Methods",
+    "id": "events-methods",
+    "sidebar_label": "Events & Methods"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Actions",
+    "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/liveform-actions"
+  },
+  "next": {
+    "title": "Use Cases",
+    "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form/liveform-use-cases"
+  }
+}

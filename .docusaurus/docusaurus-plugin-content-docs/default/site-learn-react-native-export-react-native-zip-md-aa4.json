@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/export-react-native-zip",
+  "id": "react-native/export-react-native-zip",
+  "title": "Export React Native Project as Zip",
+  "description": "---",
+  "source": "@site/../learn/react-native/export-react-native-zip.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/export-react-native-zip",
+  "permalink": "/learn/react-native/export-react-native-zip",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/export-react-native-zip.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Export React Native Project as Zip",
+    "id": "export-react-native-zip",
+    "sidebar_label": "Export as Zip"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Flipper",
+    "permalink": "/learn/react-native/flipper"
+  },
+  "next": {
+    "title": "Build Installers",
+    "permalink": "/learn/react-native/build-installers"
+  }
+}

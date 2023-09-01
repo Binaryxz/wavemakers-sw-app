@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/radioset-filter-list",
+  "id": "version-v10.14/how-tos/radioset-filter-list",
+  "title": "Radioset to Filter a List",
+  "description": "WaveMaker offers three ways of allowing user to choose from given options:",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/radioset-filter-list.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/radioset-filter-list",
+  "permalink": "/learn/v10.15/how-tos/radioset-filter-list",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/radioset-filter-list.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Radioset to Filter a List",
+    "id": "radioset-filter-list"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Radioset",
+    "permalink": "/learn/v10.15/category/radioset"
+  },
+  "next": {
+    "title": "Rating",
+    "permalink": "/learn/v10.15/category/rating"
+  }
+}

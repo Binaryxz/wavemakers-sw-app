@@ -1,0 +1,15 @@
+{
+  "title": "FileUpload",
+  "slug": "/category/fileupload",
+  "permalink": "/learn/v10.15/category/fileupload",
+  "navigation": {
+    "previous": {
+      "title": "CheckboxSet to Filter List data",
+      "permalink": "/learn/v10.15/how-tos/checkboxset-filter-list-data"
+    },
+    "next": {
+      "title": "FileUpload - Basic Usage",
+      "permalink": "/learn/v10.15/app-development/widgets/form-widgets/file-upload-basic-usage"
+    }
+  }
+}

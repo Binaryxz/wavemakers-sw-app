@@ -1,0 +1,28 @@
+{
+  "permalink": "/learn/blog/2022/08/23/Support-for-mutual-tls-in-rest-apis",
+  "source": "@site/blog/2022-08-23-Support-for-mutual-tls-in-rest-apis.md",
+  "title": "Mutual TLS Support in REST APIs",
+  "description": "---",
+  "date": "2022-08-23T00:00:00.000Z",
+  "formattedDate": "August 23, 2022",
+  "tags": [],
+  "readingTime": 2.555,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Praveen Chandra"
+    }
+  ],
+  "frontMatter": {
+    "title": "Mutual TLS Support in REST APIs",
+    "author": "Praveen Chandra"
+  },
+  "prevItem": {
+    "title": "Ending Support to WaveMaker 10 Projects",
+    "permalink": "/learn/blog/2023/08/11/wavemaker10x-end-of-support"
+  },
+  "nextItem": {
+    "title": "Monitoring performance and health of deployed WaveMaker app",
+    "permalink": "/learn/blog/2022/08/02/Monitoring-performance-and-health-of-deployed-WaveMaker-app"
+  }
+}

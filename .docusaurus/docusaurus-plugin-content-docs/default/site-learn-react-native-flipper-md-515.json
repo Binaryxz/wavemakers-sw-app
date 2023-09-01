@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/flipper",
+  "id": "react-native/flipper",
+  "title": "Flipper - Debug tools",
+  "description": "---",
+  "source": "@site/../learn/react-native/flipper.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/flipper",
+  "permalink": "/learn/react-native/flipper",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/flipper.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Flipper - Debug tools",
+    "id": "flipper",
+    "sidebar_label": "Flipper"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Expo Go Preview",
+    "permalink": "/learn/react-native/expo-debug"
+  },
+  "next": {
+    "title": "Export as Zip",
+    "permalink": "/learn/react-native/export-react-native-zip"
+  }
+}

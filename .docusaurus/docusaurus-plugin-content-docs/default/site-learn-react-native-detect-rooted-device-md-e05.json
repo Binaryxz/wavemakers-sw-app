@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/detect-rooted-device",
+  "id": "react-native/detect-rooted-device",
+  "title": "Detect Rooted Device",
+  "description": "---",
+  "source": "@site/../learn/react-native/detect-rooted-device.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/detect-rooted-device",
+  "permalink": "/learn/react-native/detect-rooted-device",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/detect-rooted-device.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Detect Rooted Device",
+    "id": "detect-rooted-device",
+    "sidebar_label": "Detect Rooted Device"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Disable Screen Capture",
+    "permalink": "/learn/react-native/disable-device-screencapture"
+  },
+  "next": {
+    "title": "Secure Store",
+    "permalink": "/learn/react-native/integrating-secure-store"
+  }
+}

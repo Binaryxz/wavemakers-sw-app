@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0",
+  "id": "version-v10.14/how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0",
+  "title": "Upgrading an App from WaveMaker 9.x to WaveMaker 10.0",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0",
+  "permalink": "/learn/v10.15/how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Upgrading an App from WaveMaker 9.x to WaveMaker 10.0",
+    "id": "guide-to-upgrade-an-app-wavemaker-9x-to-wavemaker-10-0"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "How to generate PDF File using Jasper Reports",
+    "permalink": "/learn/v10.15/how-tos/generate-pdf-file-using-jasper-reports"
+  },
+  "next": {
+    "title": "App Migration from WaveMaker 9x to 10x",
+    "permalink": "/learn/v10.15/how-tos/app-migration-wavemaker-9x-10x"
+  }
+}

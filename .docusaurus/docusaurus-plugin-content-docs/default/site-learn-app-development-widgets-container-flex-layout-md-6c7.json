@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/container/flex-layout",
+  "id": "app-development/widgets/container/flex-layout",
+  "title": "Flex Layout",
+  "description": "Flex Layout is just a Layout only with 3 children. Middle child has flex grow is set to 1. Other children have flex grow set to 0.",
+  "source": "@site/../learn/app-development/widgets/container/flex-layout.md",
+  "sourceDirName": "app-development/widgets/container",
+  "slug": "/app-development/widgets/container/flex-layout",
+  "permalink": "/learn/app-development/widgets/container/flex-layout",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/widgets/container/flex-layout.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Flex Layout",
+    "id": "flex-layout"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Layout",
+    "permalink": "/learn/app-development/widgets/container/layout"
+  },
+  "next": {
+    "title": "Grid Layout",
+    "permalink": "/learn/app-development/widgets/container/grid-layout"
+  }
+}

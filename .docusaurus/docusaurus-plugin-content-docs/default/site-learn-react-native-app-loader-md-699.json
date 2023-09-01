@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/app-loader",
+  "id": "react-native/app-loader",
+  "title": "Application Loader",
+  "description": "---",
+  "source": "@site/../learn/react-native/app-loader.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/app-loader",
+  "permalink": "/learn/react-native/app-loader",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/app-loader.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Application Loader",
+    "id": "app-loader",
+    "sidebar_label": "App Loader"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Theme",
+    "permalink": "/learn/react-native/theme"
+  },
+  "next": {
+    "title": "Animations",
+    "permalink": "/learn/react-native/animations"
+  }
+}

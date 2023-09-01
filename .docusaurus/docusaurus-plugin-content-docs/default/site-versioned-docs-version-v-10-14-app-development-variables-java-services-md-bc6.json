@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/variables/java-services",
+  "id": "version-v10.14/app-development/variables/java-services",
+  "title": "Variable for Java Service",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/variables/java-services.md",
+  "sourceDirName": "app-development/variables",
+  "slug": "/app-development/variables/java-services",
+  "permalink": "/learn/v10.15/app-development/variables/java-services",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/variables/java-services.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Variable for Java Service",
+    "id": "java-services"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Generated REST APIs (API Designer)",
+    "permalink": "/learn/v10.15/app-development/services/java-services/generated-rest-apis-api-designer"
+  },
+  "next": {
+    "title": "Java Service APIs",
+    "permalink": "/learn/v10.15/app-development/services/api-designer/java-service-apis"
+  }
+}

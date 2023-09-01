@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/using-custom-formatter",
+  "id": "how-tos/using-custom-formatter",
+  "title": "How to apply Custom Formatter for widgets",
+  "description": "---",
+  "source": "@site/../learn/how-tos/using-custom-formatter.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/using-custom-formatter",
+  "permalink": "/learn/how-tos/using-custom-formatter",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/using-custom-formatter.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How to apply Custom Formatter for widgets",
+    "id": "using-custom-formatter",
+    "sidebar_label": "Apply Custom Data Formatter"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Custom Template for Widgets",
+    "permalink": "/learn/how-tos/custom-widget-template"
+  },
+  "next": {
+    "title": "Adjust Left Navigation Width",
+    "permalink": "/learn/how-tos/adjust-leftnav-width"
+  }
+}

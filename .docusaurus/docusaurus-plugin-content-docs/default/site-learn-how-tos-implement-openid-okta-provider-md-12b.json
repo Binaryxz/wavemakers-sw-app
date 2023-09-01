@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/implement-openid-okta-provider",
+  "id": "how-tos/implement-openid-okta-provider",
+  "title": "Configuring Open ID using Okta Provider",
+  "description": "Okta's identity and access management system helps manage access control and user identity. Okta provides services to manage what resources each user can access and what functions each user can perform. In this document, we discuss the steps to configure Open ID using Okta.",
+  "source": "@site/../learn/how-tos/implement-openid-okta-provider.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/implement-openid-okta-provider",
+  "permalink": "/learn/how-tos/implement-openid-okta-provider",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/implement-openid-okta-provider.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring Open ID using Okta Provider",
+    "id": "implement-openid-okta-provider",
+    "sidebar_label": "Open ID Integration - Okta"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Open ID Integration - Google",
+    "permalink": "/learn/how-tos/implement-openid-google-provider"
+  },
+  "next": {
+    "title": "Open ID Integration - Auth0",
+    "permalink": "/learn/how-tos/implement-openid-auth0-provider"
+  }
+}

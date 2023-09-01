@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/deployment/build-options",
+  "id": "app-development/deployment/build-options",
+  "title": "Build Options for App Deployment",
+  "description": "---",
+  "source": "@site/../learn/app-development/deployment/build-options.md",
+  "sourceDirName": "app-development/deployment",
+  "slug": "/app-development/deployment/build-options",
+  "permalink": "/learn/app-development/deployment/build-options",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/deployment/build-options.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Build Options for App Deployment",
+    "id": "build-options",
+    "sidebar_label": "Build Options"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deployment Profile",
+    "permalink": "/learn/app-development/deployment/deployment-profile"
+  },
+  "next": {
+    "title": "One-click Deployment",
+    "permalink": "/learn/app-development/deployment/one-click-deployment"
+  }
+}

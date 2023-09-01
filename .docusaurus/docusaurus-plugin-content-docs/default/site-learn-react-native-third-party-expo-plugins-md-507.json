@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/third-party-expo-plugins",
+  "id": "react-native/third-party-expo-plugins",
+  "title": "Third-party expo plugins",
+  "description": "---",
+  "source": "@site/../learn/react-native/third-party-expo-plugins.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/third-party-expo-plugins",
+  "permalink": "/learn/react-native/third-party-expo-plugins",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/third-party-expo-plugins.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Third-party expo plugins",
+    "id": "third-party-expo-plugins",
+    "sidebar_label": "Third-party expo plugins"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Manual Build",
+    "permalink": "/learn/react-native/mobile-build-manual"
+  },
+  "next": {
+    "title": "Custom Widget",
+    "permalink": "/learn/react-native/custom-widget"
+  }
+}

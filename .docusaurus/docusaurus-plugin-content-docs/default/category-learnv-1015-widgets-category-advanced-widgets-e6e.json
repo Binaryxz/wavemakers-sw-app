@@ -1,0 +1,15 @@
+{
+  "title": "Advanced Widgets",
+  "slug": "/category/advanced-widgets",
+  "permalink": "/learn/v10.15/category/advanced-widgets",
+  "navigation": {
+    "previous": {
+      "title": "Creating a Popover",
+      "permalink": "/learn/v10.15/app-development/widgets/navigation/popover-basic-usage"
+    },
+    "next": {
+      "title": "Login",
+      "permalink": "/learn/v10.15/app-development/widgets/advanced/login"
+    }
+  }
+}

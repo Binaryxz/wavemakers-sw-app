@@ -1,0 +1,27 @@
+{
+  "unversionedId": "app-development/widgets/widget-library",
+  "id": "app-development/widgets/widget-library",
+  "title": "Widgets Library",
+  "description": "Widgets are HTML/Bootstrap based UI components with rich interaction and designed for responsiveness. View the entire list of Widgets in this page.",
+  "source": "@site/../learn/app-development/widgets/widget-library.md",
+  "sourceDirName": "app-development/widgets",
+  "slug": "/app-development/widgets/widget-library",
+  "permalink": "/learn/app-development/widgets/widget-library",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/widgets/widget-library.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Widgets Library",
+    "id": "widget-library",
+    "sidebar_label": "Widgets Library"
+  },
+  "sidebar": "Widgets",
+  "next": {
+    "title": "Overview",
+    "permalink": "/learn/app-development/widgets/datalive/data-table"
+  }
+}

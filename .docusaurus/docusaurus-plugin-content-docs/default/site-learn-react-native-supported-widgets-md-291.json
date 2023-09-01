@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/supported-widgets",
+  "id": "react-native/supported-widgets",
+  "title": "React Native Supported Widgets",
+  "description": "---",
+  "source": "@site/../learn/react-native/supported-widgets.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/supported-widgets",
+  "permalink": "/learn/react-native/supported-widgets",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/supported-widgets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "React Native Supported Widgets",
+    "id": "supported-widgets",
+    "sidebar_label": "Supported Widgets"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Supported Features",
+    "permalink": "/learn/react-native/feature-support"
+  },
+  "next": {
+    "title": "Supported Variables",
+    "permalink": "/learn/react-native/supported-variables"
+  }
+}

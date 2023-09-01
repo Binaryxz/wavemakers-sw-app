@@ -1,0 +1,15 @@
+{
+  "title": "Build an app in 5 Minutes",
+  "slug": "/category/build-an-app-in-5-minutes",
+  "permalink": "/learn/v10.15/category/build-an-app-in-5-minutes",
+  "navigation": {
+    "previous": {
+      "title": "Video Tutorials",
+      "permalink": "/learn/v10.15/tutorials"
+    },
+    "next": {
+      "title": "App Demo",
+      "permalink": "/learn/v10.15/tutorials/build-app-in-5-minutes/app-demo"
+    }
+  }
+}

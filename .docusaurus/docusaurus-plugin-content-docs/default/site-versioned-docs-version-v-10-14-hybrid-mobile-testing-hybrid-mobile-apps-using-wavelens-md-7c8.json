@@ -1,0 +1,30 @@
+{
+  "unversionedId": "hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens",
+  "id": "version-v10.14/hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens",
+  "title": "Testing Hybrid Mobile Apps using WaveLens",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens.md",
+  "sourceDirName": "hybrid-mobile",
+  "slug": "/hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens",
+  "permalink": "/learn/v10.15/hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/hybrid-mobile/testing-hybrid-mobile-apps-using-wavelens.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Testing Hybrid Mobile Apps using WaveLens",
+    "id": "testing-hybrid-mobile-apps-using-wavelens"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging Mobile Apps",
+    "permalink": "/learn/v10.15/hybrid-mobile/debugging-mobile-apps"
+  },
+  "next": {
+    "title": "Mobile Build - Android",
+    "permalink": "/learn/v10.15/hybrid-mobile/mobile-build-android"
+  }
+}

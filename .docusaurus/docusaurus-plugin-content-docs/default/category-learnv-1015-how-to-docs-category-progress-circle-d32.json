@@ -1,0 +1,15 @@
+{
+  "title": "Progress Circle",
+  "slug": "/category/progress-circle",
+  "permalink": "/learn/v10.15/category/progress-circle",
+  "navigation": {
+    "previous": {
+      "title": "Selection Widgets - Use Case",
+      "permalink": "/learn/v10.15/how-tos/selection-widgets-use-case"
+    },
+    "next": {
+      "title": "Using Progress Circle Widget",
+      "permalink": "/learn/v10.15/how-tos/using-progress-circle-widget"
+    }
+  }
+}

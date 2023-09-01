@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/custom-widgets/enterprise-marketplace",
+  "id": "app-development/custom-widgets/enterprise-marketplace",
+  "title": "Enterprise Marketplace",
+  "description": "---",
+  "source": "@site/../learn/app-development/custom-widgets/enterprise-marketplace.md",
+  "sourceDirName": "app-development/custom-widgets",
+  "slug": "/app-development/custom-widgets/enterprise-marketplace",
+  "permalink": "/learn/app-development/custom-widgets/enterprise-marketplace",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/custom-widgets/enterprise-marketplace.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Enterprise Marketplace",
+    "id": "enterprise-marketplace",
+    "sidebar_label": "Enterprise Marketplace"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Prefab with Partials",
+    "permalink": "/learn/app-development/custom-widgets/prefab-with-partials"
+  },
+  "next": {
+    "title": "Use Cases - Prefabs",
+    "permalink": "/learn/app-development/custom-widgets/use-cases-prefabs"
+  }
+}

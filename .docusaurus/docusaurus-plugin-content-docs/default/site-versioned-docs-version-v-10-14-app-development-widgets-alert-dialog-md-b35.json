@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/alert-dialog",
+  "id": "version-v10.14/app-development/widgets/alert-dialog",
+  "title": "Alert Dialog",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/alert-dialog.md",
+  "sourceDirName": "app-development/widgets",
+  "slug": "/app-development/widgets/alert-dialog",
+  "permalink": "/learn/v10.15/app-development/widgets/alert-dialog",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/alert-dialog.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alert Dialog",
+    "id": "alert-dialog"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Design Dialog",
+    "permalink": "/learn/v10.15/app-development/widgets/design-dialog"
+  },
+  "next": {
+    "title": "Confirm Dialog",
+    "permalink": "/learn/v10.15/app-development/widgets/confirm-dialog"
+  }
+}

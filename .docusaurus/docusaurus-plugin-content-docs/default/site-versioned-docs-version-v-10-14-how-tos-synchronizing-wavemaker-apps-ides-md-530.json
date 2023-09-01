@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-tos/synchronizing-wavemaker-apps-ides",
+  "id": "version-v10.14/how-tos/synchronizing-wavemaker-apps-ides",
+  "title": "Synchronizing WaveMaker Apps with IDEs Beta",
+  "description": "In scenarios where you want to work on WaveMaker apps and use IDE for editing Java code, synchronizing the two can be a challenge.",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/synchronizing-wavemaker-apps-ides.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/synchronizing-wavemaker-apps-ides",
+  "permalink": "/learn/v10.15/how-tos/synchronizing-wavemaker-apps-ides",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/synchronizing-wavemaker-apps-ides.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Synchronizing WaveMaker Apps with IDEs Beta",
+    "id": "synchronizing-wavemaker-apps-ides"
+  }
+}

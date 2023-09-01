@@ -1,0 +1,15 @@
+{
+  "title": "List",
+  "slug": "/category/list-1",
+  "permalink": "/learn/v10.15/category/list-1",
+  "navigation": {
+    "previous": {
+      "title": "Use Cases",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/datatable/data-table-use-cases"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/list"
+    }
+  }
+}

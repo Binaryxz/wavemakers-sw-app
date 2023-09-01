@@ -1,0 +1,15 @@
+{
+  "title": "Live Filter",
+  "slug": "/category/live-filter-1",
+  "permalink": "/learn/v10.15/category/live-filter-1",
+  "navigation": {
+    "previous": {
+      "title": "Select Locale",
+      "permalink": "/learn/v10.15/app-development/widgets/form-widgets/select-locale"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/live-filter"
+    }
+  }
+}

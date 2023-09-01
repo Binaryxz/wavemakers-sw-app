@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/changing-app-logo",
+  "id": "version-v10.14/how-tos/changing-app-logo",
+  "title": "Changing App Logo",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/changing-app-logo.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/changing-app-logo",
+  "permalink": "/learn/v10.15/how-tos/changing-app-logo",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/changing-app-logo.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Changing App Logo",
+    "id": "changing-app-logo"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Changing Default Favicon",
+    "permalink": "/learn/v10.15/how-tos/changing-default-favicon"
+  },
+  "next": {
+    "title": "Changing Page Title",
+    "permalink": "/learn/v10.15/how-tos/changing-page-title"
+  }
+}

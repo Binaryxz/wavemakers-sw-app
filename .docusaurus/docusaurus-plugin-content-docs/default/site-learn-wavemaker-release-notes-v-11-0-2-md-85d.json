@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-0-2",
+  "id": "wavemaker-release-notes/v11-0-2",
+  "title": "WaveMaker 11.0.2 Beta - Release date: 11 July 2022",
+  "description": "WaveMaker released an update containing bug fixes, including issues related to importing Web Services with OAuth 2.0 and previewing applications with Prefabs.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-0-2.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-0-2",
+  "permalink": "/learn/wavemaker-release-notes/v11-0-2",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-0-2.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.0.2 Beta - Release date: 11 July 2022",
+    "id": "v11-0-2",
+    "sidebar_label": "v11.0.2.beta"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.0.3.beta",
+    "permalink": "/learn/wavemaker-release-notes/v11-0-3"
+  },
+  "next": {
+    "title": "v11.0.1 beta",
+    "permalink": "/learn/wavemaker-release-notes/v11-0-1"
+  }
+}

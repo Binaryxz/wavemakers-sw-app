@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-tos/using-tree-widget",
+  "id": "version-v10.14/how-tos/using-tree-widget",
+  "title": "Using Tree Widget",
+  "description": "We will build a tree using a simple static structure",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/using-tree-widget.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/using-tree-widget",
+  "permalink": "/learn/v10.15/how-tos/using-tree-widget",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/using-tree-widget.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Using Tree Widget",
+    "id": "using-tree-widget"
+  }
+}

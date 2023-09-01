@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/dynamic-locale-messageselection",
+  "id": "how-tos/dynamic-locale-messageselection",
+  "title": "Passing i18n Messages Dynamically",
+  "description": "i18N Localized Messages enable multilingual support, improve user experience, expand the application's reach, and provide a more personalized user interface across the globe.",
+  "source": "@site/../learn/how-tos/dynamic-locale-messageselection.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/dynamic-locale-messageselection",
+  "permalink": "/learn/how-tos/dynamic-locale-messageselection",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/dynamic-locale-messageselection.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Passing i18n Messages Dynamically",
+    "id": "dynamic-locale-messageselection"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Localization of Data Table Column Headings",
+    "permalink": "/learn/how-tos/localization-data-table-column-headings"
+  },
+  "next": {
+    "title": "SAML Integration - OneLogin",
+    "permalink": "/learn/how-tos/saml-integration-onelogin"
+  }
+}

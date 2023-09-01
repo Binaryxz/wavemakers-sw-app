@@ -1,0 +1,15 @@
+{
+  "title": "Live Form",
+  "slug": "/category/live-form",
+  "permalink": "/learn/v10.15/category/live-form",
+  "navigation": {
+    "previous": {
+      "title": "Events & Methods",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/form/form-events-methods"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/live-form"
+    }
+  }
+}

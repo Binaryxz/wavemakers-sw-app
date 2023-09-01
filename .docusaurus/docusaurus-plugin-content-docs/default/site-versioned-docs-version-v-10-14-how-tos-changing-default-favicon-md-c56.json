@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/changing-default-favicon",
+  "id": "version-v10.14/how-tos/changing-default-favicon",
+  "title": "Changing Default Favicon",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/changing-default-favicon.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/changing-default-favicon",
+  "permalink": "/learn/v10.15/how-tos/changing-default-favicon",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/changing-default-favicon.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Changing Default Favicon",
+    "id": "changing-default-favicon"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Change Icon for the Global Spinner",
+    "permalink": "/learn/v10.15/how-tos/change-icon-global-spinner"
+  },
+  "next": {
+    "title": "Changing App Logo",
+    "permalink": "/learn/v10.15/how-tos/changing-app-logo"
+  }
+}

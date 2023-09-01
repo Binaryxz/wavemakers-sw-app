@@ -1,0 +1,15 @@
+{
+  "title": "Observability",
+  "slug": "/category/observability",
+  "permalink": "/learn/v10.15/category/observability",
+  "navigation": {
+    "previous": {
+      "title": "Configure SSL",
+      "permalink": "/learn/v10.15/on-premise/configure/config-ssl"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/learn/v10.15/on-premise/observability/introduction"
+    }
+  }
+}

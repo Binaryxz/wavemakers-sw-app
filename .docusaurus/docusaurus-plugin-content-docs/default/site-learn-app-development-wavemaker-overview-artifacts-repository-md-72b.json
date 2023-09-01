@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/wavemaker-overview/artifacts-repository",
+  "id": "app-development/wavemaker-overview/artifacts-repository",
+  "title": "Artifacts Repository",
+  "description": "---",
+  "source": "@site/../learn/app-development/wavemaker-overview/artifacts-repository.md",
+  "sourceDirName": "app-development/wavemaker-overview",
+  "slug": "/app-development/wavemaker-overview/artifacts-repository",
+  "permalink": "/learn/app-development/wavemaker-overview/artifacts-repository",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/wavemaker-overview/artifacts-repository.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Artifacts Repository",
+    "id": "artifacts-repository"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import, Export & Update Apps",
+    "permalink": "/learn/app-development/dev-integration/import-export-update-apps"
+  },
+  "next": {
+    "title": "Pages Overview",
+    "permalink": "/learn/app-development/ui-design/designing-app"
+  }
+}

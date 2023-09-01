@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-1-0",
+  "id": "wavemaker-release-notes/v11-1-0",
+  "title": "WaveMaker 11.1.0 - Release date: 29 August 2022",
+  "description": "New features, such as Angular 12 update, React Native improvements, and a few bug fixes, are included.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-1-0.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-1-0",
+  "permalink": "/learn/wavemaker-release-notes/v11-1-0",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-1-0.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.1.0 - Release date: 29 August 2022",
+    "id": "v11-1-0",
+    "sidebar_label": "v11.1.0"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "v11.1.1",
+    "permalink": "/learn/wavemaker-release-notes/v11-1-1"
+  },
+  "next": {
+    "title": "v11.0.3.beta",
+    "permalink": "/learn/wavemaker-release-notes/v11-0-3"
+  }
+}

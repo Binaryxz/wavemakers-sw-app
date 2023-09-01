@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/form-widgets/chips",
+  "id": "version-v10.14/app-development/widgets/form-widgets/chips",
+  "title": "Chips",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/form-widgets/chips.md",
+  "sourceDirName": "app-development/widgets/form-widgets",
+  "slug": "/app-development/widgets/form-widgets/chips",
+  "permalink": "/learn/v10.15/app-development/widgets/form-widgets/chips",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/form-widgets/chips.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Chips",
+    "id": "chips"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Select",
+    "permalink": "/learn/v10.15/app-development/widgets/form-widgets/select"
+  },
+  "next": {
+    "title": "Currency",
+    "permalink": "/learn/v10.15/app-development/widgets/form-widgets/currency"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "permalink": "/learn/blog/2023/08/11/wavemaker10x-end-of-support",
+  "source": "@site/blog/2023-08-11-wavemaker10x-end-of-support.md",
+  "title": "Ending Support to WaveMaker 10 Projects",
+  "description": "---",
+  "date": "2023-08-11T00:00:00.000Z",
+  "formattedDate": "August 11, 2023",
+  "tags": [],
+  "readingTime": 2.5,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ritupurna Lenka"
+    }
+  ],
+  "frontMatter": {
+    "title": "Ending Support to WaveMaker 10 Projects",
+    "author": "Ritupurna Lenka"
+  },
+  "prevItem": {
+    "title": "AA Compliant Website Accessibility through WaveMaker Platform",
+    "permalink": "/learn/blog/2023/08/14/aa-compliance-accessibility"
+  },
+  "nextItem": {
+    "title": "Mutual TLS Support in REST APIs",
+    "permalink": "/learn/blog/2022/08/23/Support-for-mutual-tls-in-rest-apis"
+  }
+}

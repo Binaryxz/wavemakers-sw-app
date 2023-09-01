@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/rowlevel-security-using-crud-event-listeners",
+  "id": "version-v10.14/how-tos/rowlevel-security-using-crud-event-listeners",
+  "title": "Row-Level Security: Display Table Contents using CRUD Listeners",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/rowlevel-security-using-crud-event-listeners.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/rowlevel-security-using-crud-event-listeners",
+  "permalink": "/learn/v10.15/how-tos/rowlevel-security-using-crud-event-listeners",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/rowlevel-security-using-crud-event-listeners.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Row-Level Security: Display Table Contents using CRUD Listeners",
+    "id": "rowlevel-security-using-crud-event-listeners",
+    "sidebar_label": "Row-Level Security using DB Event Listeners"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Transactional History of Entity",
+    "permalink": "/learn/v10.15/how-tos/audit-history-using-crud-listeners"
+  },
+  "next": {
+    "title": "Custom Logic DB Event Listeners",
+    "permalink": "/learn/v10.15/how-tos/custom-business-logic-using-crud-event-listeners"
+  }
+}

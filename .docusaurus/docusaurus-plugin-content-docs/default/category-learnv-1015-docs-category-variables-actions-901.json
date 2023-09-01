@@ -1,0 +1,15 @@
+{
+  "title": "Variables & Actions",
+  "slug": "/category/variables--actions",
+  "permalink": "/learn/v10.15/category/variables--actions",
+  "navigation": {
+    "previous": {
+      "title": "Using 3rd party jar files",
+      "permalink": "/learn/v10.15/app-development/services/3rd-party-libraries/using-3rd-party-jar-files"
+    },
+    "next": {
+      "title": "Variables Overview",
+      "permalink": "/learn/v10.15/app-development/variables/"
+    }
+  }
+}

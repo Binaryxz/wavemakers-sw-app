@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/ui-design/themes",
+  "id": "version-v10.14/app-development/ui-design/themes",
+  "title": "Apply and Import Theme",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/ui-design/themes.md",
+  "sourceDirName": "app-development/ui-design",
+  "slug": "/app-development/ui-design/themes",
+  "permalink": "/learn/v10.15/app-development/ui-design/themes",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/ui-design/themes.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Apply and Import Theme",
+    "id": "themes",
+    "sidebar_label": "Themes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Templates",
+    "permalink": "/learn/v10.15/app-development/ui-design/page-concepts/page-templates"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/learn/v10.15/app-development/ui-design/accessibility"
+  }
+}

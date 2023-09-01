@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/building-rating-widget-using-variable",
+  "id": "version-v10.14/how-tos/building-rating-widget-using-variable",
+  "title": "Build Rating Widget using Model Variable",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/building-rating-widget-using-variable.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/building-rating-widget-using-variable",
+  "permalink": "/learn/v10.15/how-tos/building-rating-widget-using-variable",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/building-rating-widget-using-variable.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Build Rating Widget using Model Variable",
+    "id": "building-rating-widget-using-variable"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Building Rating Widget using Static Variable",
+    "permalink": "/learn/v10.15/how-tos/rating-widget-using-static-variable"
+  },
+  "next": {
+    "title": "Building an Interactive Rating Widget",
+    "permalink": "/learn/v10.15/how-tos/rating-widget-interactive"
+  }
+}

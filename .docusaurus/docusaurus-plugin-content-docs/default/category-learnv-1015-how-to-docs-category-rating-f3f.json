@@ -1,0 +1,15 @@
+{
+  "title": "Rating",
+  "slug": "/category/rating",
+  "permalink": "/learn/v10.15/category/rating",
+  "navigation": {
+    "previous": {
+      "title": "Radioset to Filter a List",
+      "permalink": "/learn/v10.15/how-tos/radioset-filter-list"
+    },
+    "next": {
+      "title": "Building Rating Widget using Static Data",
+      "permalink": "/learn/v10.15/how-tos/rating-widget-using-static-data"
+    }
+  }
+}

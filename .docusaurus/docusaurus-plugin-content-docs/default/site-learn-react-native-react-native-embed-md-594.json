@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/react-native-embed",
+  "id": "react-native/react-native-embed",
+  "title": "Embed WaveMaker React Native apps into Native Apps",
+  "description": "---",
+  "source": "@site/../learn/react-native/react-native-embed.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/react-native-embed",
+  "permalink": "/learn/react-native/react-native-embed",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/react-native-embed.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Embed WaveMaker React Native apps into Native Apps",
+    "id": "react-native-embed",
+    "sidebar_label": "React Native Embed"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "WebView",
+    "permalink": "/learn/react-native/web-view"
+  },
+  "next": {
+    "title": "Biometric Authentication",
+    "permalink": "/learn/react-native/integrating-biometric-authentication"
+  }
+}

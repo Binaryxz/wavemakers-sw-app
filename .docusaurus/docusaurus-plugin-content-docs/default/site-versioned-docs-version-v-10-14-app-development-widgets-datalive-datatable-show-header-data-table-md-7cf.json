@@ -1,0 +1,21 @@
+{
+  "unversionedId": "app-development/widgets/datalive/datatable/show-header-data-table",
+  "id": "version-v10.14/app-development/widgets/datalive/datatable/show-header-data-table",
+  "title": "Show Header Property in Data Table",
+  "description": "Show Header is a Data Table property. It determines the visibility of the column header captions.",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/datalive/datatable/show-header-data-table.md",
+  "sourceDirName": "app-development/widgets/datalive/datatable",
+  "slug": "/app-development/widgets/datalive/datatable/show-header-data-table",
+  "permalink": "/learn/v10.15/app-development/widgets/datalive/datatable/show-header-data-table",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/datalive/datatable/show-header-data-table.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Show Header Property in Data Table",
+    "id": "show-header-data-table"
+  }
+}

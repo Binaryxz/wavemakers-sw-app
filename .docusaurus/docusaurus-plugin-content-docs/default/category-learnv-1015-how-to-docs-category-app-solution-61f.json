@@ -1,0 +1,15 @@
+{
+  "title": "App solution",
+  "slug": "/category/app-solution",
+  "permalink": "/learn/v10.15/category/app-solution",
+  "navigation": {
+    "previous": {
+      "title": "WaveMaker Best Practices",
+      "permalink": "/learn/v10.15/app-development/wavemaker-overview/wavemaker-best-practices"
+    },
+    "next": {
+      "title": "Creating a Registration Page",
+      "permalink": "/learn/v10.15/how-tos/creating-registration-page"
+    }
+  }
+}

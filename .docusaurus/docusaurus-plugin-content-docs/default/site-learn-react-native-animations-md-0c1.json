@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/animations",
+  "id": "react-native/animations",
+  "title": "Apply Animations",
+  "description": "---",
+  "source": "@site/../learn/react-native/animations.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/animations",
+  "permalink": "/learn/react-native/animations",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/animations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Apply Animations",
+    "sidebar_label": "Animations",
+    "id": "animations"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "App Loader",
+    "permalink": "/learn/react-native/app-loader"
+  },
+  "next": {
+    "title": "Splash Screen",
+    "permalink": "/learn/react-native/splash-screen"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/live-filter-range-filter",
+  "id": "version-v10.14/how-tos/live-filter-range-filter",
+  "title": "Building a Range Live Filter",
+  "description": "To filter data between given two values, Show Range Selector property from the Advanced Settings can be used. For example, we will how to filter the vacation details of employees between to Start Dates. We are using the hrdb Vacation table for this example.",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/live-filter-range-filter.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/live-filter-range-filter",
+  "permalink": "/learn/v10.15/how-tos/live-filter-range-filter",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/live-filter-range-filter.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Building a Range Live Filter",
+    "id": "live-filter-range-filter"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Building a Multiple Selection Live Filter",
+    "permalink": "/learn/v10.15/how-tos/live-filter-multiple-values"
+  },
+  "next": {
+    "title": "Container",
+    "permalink": "/learn/v10.15/category/container"
+  }
+}

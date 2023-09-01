@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/selection-widgets-use-case",
+  "id": "version-v10.14/how-tos/selection-widgets-use-case",
+  "title": "Selection Widgets - Use Case",
+  "description": "WaveMaker offers three ways of allowing user to choose from given options:",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/selection-widgets-use-case.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/selection-widgets-use-case",
+  "permalink": "/learn/v10.15/how-tos/selection-widgets-use-case",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/selection-widgets-use-case.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Selection Widgets - Use Case",
+    "id": "selection-widgets-use-case"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Configuring Cascading Select",
+    "permalink": "/learn/v10.15/how-tos/configuring-cascading-select"
+  },
+  "next": {
+    "title": "Progress Circle",
+    "permalink": "/learn/v10.15/category/progress-circle"
+  }
+}

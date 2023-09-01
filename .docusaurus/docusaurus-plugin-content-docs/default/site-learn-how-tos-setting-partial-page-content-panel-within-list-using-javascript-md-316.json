@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/setting-partial-page-content-panel-within-list-using-javascript",
+  "id": "how-tos/setting-partial-page-content-panel-within-list-using-javascript",
+  "title": "Setting partial page content for Panel within a List using JavaScript",
+  "description": "---",
+  "source": "@site/../learn/how-tos/setting-partial-page-content-panel-within-list-using-javascript.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/setting-partial-page-content-panel-within-list-using-javascript",
+  "permalink": "/learn/how-tos/setting-partial-page-content-panel-within-list-using-javascript",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/setting-partial-page-content-panel-within-list-using-javascript.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Setting partial page content for Panel within a List using JavaScript",
+    "id": "setting-partial-page-content-panel-within-list-using-javascript"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Creating an Employee List grouped by Birth Month and City",
+    "permalink": "/learn/how-tos/list-multi-grouped"
+  },
+  "next": {
+    "title": "OnRender Event",
+    "permalink": "/learn/how-tos/onrender-event-list-widget"
+  }
+}

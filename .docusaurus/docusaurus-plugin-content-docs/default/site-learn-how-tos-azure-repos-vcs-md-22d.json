@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/azure-repos-vcs",
+  "id": "how-tos/azure-repos-vcs",
+  "title": "Configure Azure Repos In CodeRepository",
+  "description": "WaveMaker Team offering allows Team admins to configure Version Control System (VCS), which stores the project source code.",
+  "source": "@site/../learn/how-tos/azure-repos-vcs.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/azure-repos-vcs",
+  "permalink": "/learn/how-tos/azure-repos-vcs",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/azure-repos-vcs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configure Azure Repos In CodeRepository",
+    "id": "azure-repos-vcs"
+  },
+  "sidebar": "Teams",
+  "previous": {
+    "title": "Code Repository",
+    "permalink": "/learn/teams/code-repository"
+  },
+  "next": {
+    "title": "Import VCS Project",
+    "permalink": "/learn/teams/import-vcs-project"
+  }
+}

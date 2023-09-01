@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/prefab/oauth-prefabs/google",
+  "id": "version-v10.14/app-development/widgets/prefab/oauth-prefabs/google",
+  "title": "Google",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/prefab/oauth-prefabs/google.md",
+  "sourceDirName": "app-development/widgets/prefab/oauth-prefabs",
+  "slug": "/app-development/widgets/prefab/oauth-prefabs/google",
+  "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs/google",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/prefab/oauth-prefabs/google.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Google",
+    "id": "google"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Facebook",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs/facebook"
+  },
+  "next": {
+    "title": "Instagram",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs/instagram"
+  }
+}

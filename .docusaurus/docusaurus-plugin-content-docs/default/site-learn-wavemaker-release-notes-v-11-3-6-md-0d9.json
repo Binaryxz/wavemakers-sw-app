@@ -1,0 +1,31 @@
+{
+  "unversionedId": "wavemaker-release-notes/v11-3-6",
+  "id": "wavemaker-release-notes/v11-3-6",
+  "title": "WaveMaker 11.3.6 - Release date: 31 July 2023",
+  "description": "WaveMaker has released version 11.3.6, which includes new features in React Native, such as Multi-theme support, Touch events, Audio widget, RTL Layout, Multiple selections in the List widget, React Native feature enhancements, and other bug fixes.",
+  "source": "@site/../learn/wavemaker-release-notes/v11-3-6.md",
+  "sourceDirName": "wavemaker-release-notes",
+  "slug": "/wavemaker-release-notes/v11-3-6",
+  "permalink": "/learn/wavemaker-release-notes/v11-3-6",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/wavemaker-release-notes/v11-3-6.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "WaveMaker 11.3.6 - Release date: 31 July 2023",
+    "id": "v11-3-6",
+    "sidebar_label": "v11.3.6 - latest"
+  },
+  "sidebar": "Release Notes",
+  "previous": {
+    "title": "Upgrade Guide 11",
+    "permalink": "/learn/how-tos/upgrade-guide-wavemaker-10-to-11"
+  },
+  "next": {
+    "title": "v11.3.5",
+    "permalink": "/learn/wavemaker-release-notes/v11-3-5"
+  }
+}

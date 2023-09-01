@@ -1,0 +1,15 @@
+{
+  "title": "Form",
+  "slug": "/category/form",
+  "permalink": "/learn/v10.15/category/form",
+  "navigation": {
+    "previous": {
+      "title": "Use Cases",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/list/list-use-cases"
+    },
+    "next": {
+      "title": "Forms Overview",
+      "permalink": "/learn/v10.15/app-development/widgets/datalive/form"
+    }
+  }
+}

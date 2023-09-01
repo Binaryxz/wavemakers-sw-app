@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/advanced/login",
+  "id": "version-v10.14/app-development/widgets/advanced/login",
+  "title": "Login",
+  "description": "Login can be used to display a pre-built Login section with a sign in button, username, and password fields. It also provides the option to remember the password.",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/advanced/login.md",
+  "sourceDirName": "app-development/widgets/advanced",
+  "slug": "/app-development/widgets/advanced/login",
+  "permalink": "/learn/v10.15/app-development/widgets/advanced/login",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/advanced/login.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Login",
+    "id": "login"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Advanced Widgets",
+    "permalink": "/learn/v10.15/category/advanced-widgets"
+  },
+  "next": {
+    "title": "Marquee",
+    "permalink": "/learn/v10.15/app-development/widgets/advanced/marquee"
+  }
+}

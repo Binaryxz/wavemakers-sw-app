@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/test-run",
+  "id": "react-native/test-run",
+  "title": "Test React Native app in Preview",
+  "description": "---",
+  "source": "@site/../learn/react-native/test-run.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/test-run",
+  "permalink": "/learn/react-native/test-run",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/test-run.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Test React Native app in Preview",
+    "id": "test-run",
+    "sidebar_label": "Test Run Preview"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "SSL Pinning (Beta)",
+    "permalink": "/learn/react-native/ssl-pinning"
+  },
+  "next": {
+    "title": "Local Web Preview",
+    "permalink": "/learn/react-native/generate-web-preview-locally"
+  }
+}

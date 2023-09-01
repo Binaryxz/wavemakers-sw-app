@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/dynamic-menu-based-user-role",
+  "id": "version-v10.14/how-tos/dynamic-menu-based-user-role",
+  "title": "Dynamic Menu based on the User Role",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/dynamic-menu-based-user-role.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/dynamic-menu-based-user-role",
+  "permalink": "/learn/v10.15/how-tos/dynamic-menu-based-user-role",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/dynamic-menu-based-user-role.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dynamic Menu based on the User Role",
+    "id": "dynamic-menu-based-user-role",
+    "sidebar_label": "Dynamic Menu based on User Role"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Nav & Dropdown",
+    "permalink": "/learn/v10.15/category/nav--dropdown"
+  },
+  "next": {
+    "title": "Restricting Menu Items based on the User Role",
+    "permalink": "/learn/v10.15/how-tos/restricting-menu-item-display-based-user-role"
+  }
+}

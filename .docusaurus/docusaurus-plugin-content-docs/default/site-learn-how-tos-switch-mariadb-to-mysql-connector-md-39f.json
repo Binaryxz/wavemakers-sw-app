@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-tos/switch-mariadb-to-mysql-connector",
+  "id": "how-tos/switch-mariadb-to-mysql-connector",
+  "title": "How to Switch MariaDB to MySQL Connector",
+  "description": "---",
+  "source": "@site/../learn/how-tos/switch-mariadb-to-mysql-connector.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/switch-mariadb-to-mysql-connector",
+  "permalink": "/learn/how-tos/switch-mariadb-to-mysql-connector",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/switch-mariadb-to-mysql-connector.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How to Switch MariaDB to MySQL Connector",
+    "id": "switch-mariadb-to-mysql-connector"
+  }
+}

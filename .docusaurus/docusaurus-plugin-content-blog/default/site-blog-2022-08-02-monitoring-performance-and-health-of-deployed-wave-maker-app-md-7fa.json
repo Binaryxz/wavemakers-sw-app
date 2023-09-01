@@ -1,0 +1,28 @@
+{
+  "permalink": "/learn/blog/2022/08/02/Monitoring-performance-and-health-of-deployed-WaveMaker-app",
+  "source": "@site/blog/2022-08-02-Monitoring-performance-and-health-of-deployed-WaveMaker-app.md",
+  "title": "Monitoring performance and health of deployed WaveMaker app",
+  "description": "---",
+  "date": "2022-08-02T00:00:00.000Z",
+  "formattedDate": "August 2, 2022",
+  "tags": [],
+  "readingTime": 4.99,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Deepika Srimanthula"
+    }
+  ],
+  "frontMatter": {
+    "title": "Monitoring performance and health of deployed WaveMaker app",
+    "author": "Deepika Srimanthula"
+  },
+  "prevItem": {
+    "title": "Mutual TLS Support in REST APIs",
+    "permalink": "/learn/blog/2022/08/23/Support-for-mutual-tls-in-rest-apis"
+  },
+  "nextItem": {
+    "title": "Mitigating Spring Zero-day Vulnerability CVE-2022-22965",
+    "permalink": "/learn/blog/2022/04/05/mitigating-spring-zero-day-vulnerability"
+  }
+}

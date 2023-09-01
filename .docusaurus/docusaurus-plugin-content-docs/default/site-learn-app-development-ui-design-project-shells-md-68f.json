@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/ui-design/project-shells",
+  "id": "app-development/ui-design/project-shells",
+  "title": "Project Shells",
+  "description": "---",
+  "source": "@site/../learn/app-development/ui-design/project-shells.md",
+  "sourceDirName": "app-development/ui-design",
+  "slug": "/app-development/ui-design/project-shells",
+  "permalink": "/learn/app-development/ui-design/project-shells",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/app-development/ui-design/project-shells.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Project Shells",
+    "id": "project-shells"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Examples",
+    "permalink": "/learn/app-development/ui-design/use-cases-ui-design"
+  },
+  "next": {
+    "title": "Page Parameters",
+    "permalink": "/learn/app-development/ui-design/page-concepts/page-parameters"
+  }
+}

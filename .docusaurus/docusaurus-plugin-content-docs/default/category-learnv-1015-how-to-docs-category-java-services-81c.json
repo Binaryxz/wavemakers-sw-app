@@ -1,0 +1,15 @@
+{
+  "title": "Java services",
+  "slug": "/category/java-services-1",
+  "permalink": "/learn/v10.15/category/java-services-1",
+  "navigation": {
+    "previous": {
+      "title": "Working with API with different pagination formats",
+      "permalink": "/learn/v10.15/how-tos/working-api-with-different-pagination-formats"
+    },
+    "next": {
+      "title": "Sending Email using WaveMaker Connector",
+      "permalink": "/learn/v10.15/how-tos/sending-email-using-java-service"
+    }
+  }
+}

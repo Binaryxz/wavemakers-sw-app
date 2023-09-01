@@ -1,0 +1,15 @@
+{
+  "title": "Install on Hyper-V",
+  "slug": "/category/install-on-hyper-v",
+  "permalink": "/learn/v10.15/category/install-on-hyper-v",
+  "navigation": {
+    "previous": {
+      "title": "Configure Pipeline",
+      "permalink": "/learn/v10.15/on-premise/configure/config-pipeline"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/on-premise/hyper-v/wavemaker-enterprise-setup-on-hyperv"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "react-native/feature-support",
+  "id": "react-native/feature-support",
+  "title": "React Native Features",
+  "description": "---",
+  "source": "@site/../learn/react-native/feature-support.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/feature-support",
+  "permalink": "/learn/react-native/feature-support",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/react-native/feature-support.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "React Native Features",
+    "id": "feature-support",
+    "sidebar_label": "Supported Features"
+  },
+  "sidebar": "Mobile",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/learn/react-native/react-native-overview"
+  },
+  "next": {
+    "title": "Supported Widgets",
+    "permalink": "/learn/react-native/supported-widgets"
+  }
+}

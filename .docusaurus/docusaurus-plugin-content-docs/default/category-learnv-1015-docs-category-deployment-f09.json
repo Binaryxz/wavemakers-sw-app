@@ -1,0 +1,15 @@
+{
+  "title": "Deployment",
+  "slug": "/category/deployment",
+  "permalink": "/learn/v10.15/category/deployment",
+  "navigation": {
+    "previous": {
+      "title": "Artifacts Repository",
+      "permalink": "/learn/v10.15/app-development/wavemaker-overview/artifacts-repository"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/deployment/deployment-overview"
+    }
+  }
+}

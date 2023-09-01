@@ -1,0 +1,31 @@
+{
+  "unversionedId": "teams/import-vcs-project",
+  "id": "teams/import-vcs-project",
+  "title": "Import Project from Code Repository",
+  "description": "---",
+  "source": "@site/../learn/teams/import-vcs-project.md",
+  "sourceDirName": "teams",
+  "slug": "/teams/import-vcs-project",
+  "permalink": "/learn/teams/import-vcs-project",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/teams/import-vcs-project.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Import Project from Code Repository",
+    "id": "import-vcs-project",
+    "sidebar_label": "Import VCS Project"
+  },
+  "sidebar": "Teams",
+  "previous": {
+    "title": "Configure Azure Repos In CodeRepository",
+    "permalink": "/learn/how-tos/azure-repos-vcs"
+  },
+  "next": {
+    "title": "Team Profile",
+    "permalink": "/learn/teams/team-profile"
+  }
+}

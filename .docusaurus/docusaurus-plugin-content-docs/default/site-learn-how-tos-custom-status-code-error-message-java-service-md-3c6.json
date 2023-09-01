@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/custom-status-code-error-message-java-service",
+  "id": "how-tos/custom-status-code-error-message-java-service",
+  "title": "Set Custom Status Code and Custom Error Message in Java Service",
+  "description": "---",
+  "source": "@site/../learn/how-tos/custom-status-code-error-message-java-service.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/custom-status-code-error-message-java-service",
+  "permalink": "/learn/how-tos/custom-status-code-error-message-java-service",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/custom-status-code-error-message-java-service.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Set Custom Status Code and Custom Error Message in Java Service",
+    "id": "custom-status-code-error-message-java-service"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Integrate OTP (One-Time Passcode) Verification with WaveMaker App",
+    "permalink": "/learn/how-tos/twilio-otp-integration"
+  },
+  "next": {
+    "title": "Using Filter Conditions on Variable",
+    "permalink": "/learn/how-tos/using-filter-conditions-variable"
+  }
+}

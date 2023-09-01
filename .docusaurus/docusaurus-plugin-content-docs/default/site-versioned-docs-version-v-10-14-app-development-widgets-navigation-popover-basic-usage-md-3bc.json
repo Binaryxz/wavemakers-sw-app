@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/widgets/navigation/popover-basic-usage",
+  "id": "version-v10.14/app-development/widgets/navigation/popover-basic-usage",
+  "title": "Using Popover Widget",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/navigation/popover-basic-usage.md",
+  "sourceDirName": "app-development/widgets/navigation",
+  "slug": "/app-development/widgets/navigation/popover-basic-usage",
+  "permalink": "/learn/v10.15/app-development/widgets/navigation/popover-basic-usage",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/navigation/popover-basic-usage.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Using Popover Widget",
+    "id": "popover-basic-usage",
+    "sidebar_label": "Creating a Popover"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "Popover Overview",
+    "permalink": "/learn/v10.15/app-development/widgets/navigation/popover"
+  },
+  "next": {
+    "title": "Advanced Widgets",
+    "permalink": "/learn/v10.15/category/advanced-widgets"
+  }
+}

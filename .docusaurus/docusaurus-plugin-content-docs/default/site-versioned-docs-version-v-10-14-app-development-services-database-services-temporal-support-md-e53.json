@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/services/database-services/temporal-support",
+  "id": "version-v10.14/app-development/services/database-services/temporal-support",
+  "title": "Temporal Support",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/services/database-services/temporal-support.md",
+  "sourceDirName": "app-development/services/database-services",
+  "slug": "/app-development/services/database-services/temporal-support",
+  "permalink": "/learn/v10.15/app-development/services/database-services/temporal-support",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/services/database-services/temporal-support.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Temporal Support",
+    "id": "temporal-support"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Database Views",
+    "permalink": "/learn/v10.15/app-development/services/database-services/database-views"
+  },
+  "next": {
+    "title": "Accessing Database",
+    "permalink": "/learn/v10.15/app-development/services/database-access"
+  }
+}

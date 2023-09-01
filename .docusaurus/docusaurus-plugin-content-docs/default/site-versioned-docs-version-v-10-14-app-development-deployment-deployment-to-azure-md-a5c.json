@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/deployment/deployment-to-azure",
+  "id": "version-v10.14/app-development/deployment/deployment-to-azure",
+  "title": "Configuring for Azure Deployment",
+  "description": "Learn how to deploy your app to Azure server.",
+  "source": "@site/versioned_docs/version-v10.14/app-development/deployment/deployment-to-azure.md",
+  "sourceDirName": "app-development/deployment",
+  "slug": "/app-development/deployment/deployment-to-azure",
+  "permalink": "/learn/v10.15/app-development/deployment/deployment-to-azure",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/deployment/deployment-to-azure.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring for Azure Deployment",
+    "id": "deployment-to-azure",
+    "sidebar_label": "Azure"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "AWS",
+    "permalink": "/learn/v10.15/app-development/deployment/deployment-to-aws"
+  },
+  "next": {
+    "title": "Google Cloud",
+    "permalink": "/learn/v10.15/app-development/deployment/deployment-google-cloud"
+  }
+}

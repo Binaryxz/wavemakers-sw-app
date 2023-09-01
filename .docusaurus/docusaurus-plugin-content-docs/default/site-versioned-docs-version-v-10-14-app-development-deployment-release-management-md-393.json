@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/deployment/release-management",
+  "id": "version-v10.14/app-development/deployment/release-management",
+  "title": "Release Management",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/deployment/release-management.md",
+  "sourceDirName": "app-development/deployment",
+  "slug": "/app-development/deployment/release-management",
+  "permalink": "/learn/v10.15/app-development/deployment/release-management",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/deployment/release-management.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Release Management",
+    "id": "release-management",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "One-click Deployment",
+    "permalink": "/learn/v10.15/app-development/deployment/one-click-deployment"
+  },
+  "next": {
+    "title": "Configuration Profiles",
+    "permalink": "/learn/v10.15/app-development/deployment/configuration-profiles"
+  }
+}

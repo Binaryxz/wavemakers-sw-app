@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-development/widgets/prefab/oauth-prefabs/box",
+  "id": "version-v10.14/app-development/widgets/prefab/oauth-prefabs/box",
+  "title": "Box",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-v10.14/app-development/widgets/prefab/oauth-prefabs/box.md",
+  "sourceDirName": "app-development/widgets/prefab/oauth-prefabs",
+  "slug": "/app-development/widgets/prefab/oauth-prefabs/box",
+  "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs/box",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/widgets/prefab/oauth-prefabs/box.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Box",
+    "id": "box"
+  },
+  "sidebar": "Widgets",
+  "previous": {
+    "title": "OAuth Prefabs",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs"
+  },
+  "next": {
+    "title": "Facebook",
+    "permalink": "/learn/v10.15/app-development/widgets/prefab/oauth-prefabs/facebook"
+  }
+}

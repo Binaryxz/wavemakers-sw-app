@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/wavemaker-application-deployment-websphere-liberty-profile",
+  "id": "version-v10.14/how-tos/wavemaker-application-deployment-websphere-liberty-profile",
+  "title": "App Deployment to WebSphere (Liberty Profile)",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/wavemaker-application-deployment-websphere-liberty-profile.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/wavemaker-application-deployment-websphere-liberty-profile",
+  "permalink": "/learn/v10.15/how-tos/wavemaker-application-deployment-websphere-liberty-profile",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/wavemaker-application-deployment-websphere-liberty-profile.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "App Deployment to WebSphere (Liberty Profile)",
+    "id": "wavemaker-application-deployment-websphere-liberty-profile",
+    "sidebar_label": "WebSphere"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deploy to Tomcat",
+    "permalink": "/learn/v10.15/how-tos/wavemaker-application-deployment-tomcat"
+  },
+  "next": {
+    "title": "JBoss - WildFly",
+    "permalink": "/learn/v10.15/how-tos/wavemaker-application-deployment-jboss"
+  }
+}

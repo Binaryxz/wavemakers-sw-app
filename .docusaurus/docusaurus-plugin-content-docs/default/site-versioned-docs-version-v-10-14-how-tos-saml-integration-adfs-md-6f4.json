@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/saml-integration-adfs",
+  "id": "version-v10.14/how-tos/saml-integration-adfs",
+  "title": "SAML Integration - ADFS",
+  "description": "Active Directory Federation Services (ADFS) is a software component developed by Microsoft that can be installed on Windows Server operating systems to provide users with single sign-on access to systems and applications located across organizational boundaries.",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/saml-integration-adfs.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/saml-integration-adfs",
+  "permalink": "/learn/v10.15/how-tos/saml-integration-adfs",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/saml-integration-adfs.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "SAML Integration - ADFS",
+    "id": "saml-integration-adfs"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "SAML Integration - OneLogin",
+    "permalink": "/learn/v10.15/how-tos/saml-integration-onelogin"
+  },
+  "next": {
+    "title": "OpenID Integration - Azure AD",
+    "permalink": "/learn/v10.15/how-tos/sso-openid-azure-active-directory"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Security",
+  "slug": "/category/security",
+  "permalink": "/learn/v10.15/category/security",
+  "navigation": {
+    "previous": {
+      "title": "JavaScript Access",
+      "permalink": "/learn/v10.15/app-development/variables/accessing-elements-via-javascript"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/learn/v10.15/app-development/app-security/"
+    }
+  }
+}

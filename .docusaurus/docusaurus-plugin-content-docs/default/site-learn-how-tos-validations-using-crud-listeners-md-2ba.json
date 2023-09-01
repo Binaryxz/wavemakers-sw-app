@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/validations-using-crudListeners",
+  "id": "how-tos/validations-using-crudListeners",
+  "title": "Dynamic Validations using CRUD Listeners",
+  "description": "---",
+  "source": "@site/../learn/how-tos/validations-using-crudListeners.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/validations-using-crudListeners",
+  "permalink": "/learn/how-tos/validations-using-crudListeners",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/how-tos/validations-using-crudListeners.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dynamic Validations using CRUD Listeners",
+    "id": "validations-using-crudListeners",
+    "sidebar_label": "Validations using CRUD Listeners"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Row-Level Security using DB Event Listeners",
+    "permalink": "/learn/how-tos/rowlevel-security-using-crud-event-listeners"
+  },
+  "next": {
+    "title": "Custom Logic DB Event Listeners",
+    "permalink": "/learn/how-tos/custom-business-logic-using-crud-event-listeners"
+  }
+}

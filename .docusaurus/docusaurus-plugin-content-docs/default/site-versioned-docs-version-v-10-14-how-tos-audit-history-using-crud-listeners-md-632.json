@@ -1,0 +1,31 @@
+{
+  "unversionedId": "how-tos/audit-history-using-crud-listeners",
+  "id": "version-v10.14/how-tos/audit-history-using-crud-listeners",
+  "title": "Record Transactional History of an Entity",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/audit-history-using-crud-listeners.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/audit-history-using-crud-listeners",
+  "permalink": "/learn/v10.15/how-tos/audit-history-using-crud-listeners",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/audit-history-using-crud-listeners.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Record Transactional History of an Entity",
+    "id": "audit-history-using-crud-listeners",
+    "sidebar_label": "Transactional History of Entity"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Connect To SAP Hana Cloud Database",
+    "permalink": "/learn/v10.15/how-tos/configuring-sap-hana-clouddb"
+  },
+  "next": {
+    "title": "Row-Level Security using DB Event Listeners",
+    "permalink": "/learn/v10.15/how-tos/rowlevel-security-using-crud-event-listeners"
+  }
+}

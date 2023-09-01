@@ -1,0 +1,31 @@
+{
+  "unversionedId": "on-premise/upgrade/upgrade-non-root-execution",
+  "id": "on-premise/upgrade/upgrade-non-root-execution",
+  "title": "Upgrade with Non Root WME Execution",
+  "description": "---",
+  "source": "@site/../learn/on-premise/upgrade/upgrade-with-non-root-execution.md",
+  "sourceDirName": "on-premise/upgrade",
+  "slug": "/on-premise/upgrade/upgrade-non-root-execution",
+  "permalink": "/learn/on-premise/upgrade/upgrade-non-root-execution",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/../learn/on-premise/upgrade/upgrade-with-non-root-execution.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Upgrade with Non Root WME Execution",
+    "id": "upgrade-non-root-execution",
+    "sidebar_label": "Upgrade Non Root WME Execution"
+  },
+  "sidebar": "Enterprise",
+  "previous": {
+    "title": "Docker Upgrade",
+    "permalink": "/learn/on-premise/upgrade/docker-upgrade"
+  },
+  "next": {
+    "title": "OS Upgrade",
+    "permalink": "/learn/on-premise/upgrade/os-upgrade"
+  }
+}

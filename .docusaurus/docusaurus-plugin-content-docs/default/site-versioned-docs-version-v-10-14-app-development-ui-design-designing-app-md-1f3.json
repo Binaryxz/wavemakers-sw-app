@@ -1,0 +1,31 @@
+{
+  "unversionedId": "app-development/ui-design/designing-app",
+  "id": "version-v10.14/app-development/ui-design/designing-app",
+  "title": "Pages Overview",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/app-development/ui-design/designing-app.md",
+  "sourceDirName": "app-development/ui-design",
+  "slug": "/app-development/ui-design/designing-app",
+  "permalink": "/learn/v10.15/app-development/ui-design/designing-app",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/app-development/ui-design/designing-app.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Pages Overview",
+    "id": "designing-app",
+    "sidebar_label": "Pages Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pages",
+    "permalink": "/learn/v10.15/category/pages"
+  },
+  "next": {
+    "title": "Creating a Page",
+    "permalink": "/learn/v10.15/app-development/ui-design/page-creation"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "hybrid-mobile/mobile-navbar",
+  "id": "version-v10.14/hybrid-mobile/mobile-navbar",
+  "title": "Mobile Navbar",
+  "description": "---",
+  "source": "@site/versioned_docs/version-v10.14/hybrid-mobile/mobile-navbar.md",
+  "sourceDirName": "hybrid-mobile",
+  "slug": "/hybrid-mobile/mobile-navbar",
+  "permalink": "/learn/v10.15/hybrid-mobile/mobile-navbar",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/hybrid-mobile/mobile-navbar.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Mobile Navbar",
+    "id": "mobile-navbar"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mobile Tabbar",
+    "permalink": "/learn/v10.15/hybrid-mobile/mobile-tabbar"
+  },
+  "next": {
+    "title": "Test Run (Preview)",
+    "permalink": "/learn/v10.15/hybrid-mobile/test-run"
+  }
+}

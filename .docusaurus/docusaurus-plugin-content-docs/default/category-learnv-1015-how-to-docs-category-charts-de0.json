@@ -1,0 +1,15 @@
+{
+  "title": "Charts",
+  "slug": "/category/charts",
+  "permalink": "/learn/v10.15/category/charts",
+  "navigation": {
+    "previous": {
+      "title": "Using Progress Circle Widget",
+      "permalink": "/learn/v10.15/how-tos/using-progress-circle-widget"
+    },
+    "next": {
+      "title": "Working with Charts",
+      "permalink": "/learn/v10.15/how-tos/working-with-charts"
+    }
+  }
+}

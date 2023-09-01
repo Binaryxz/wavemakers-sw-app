@@ -1,0 +1,15 @@
+{
+  "title": "Essentials",
+  "slug": "/category/essentials",
+  "permalink": "/learn/v10.15/category/essentials",
+  "navigation": {
+    "previous": {
+      "title": "Preview and Test App",
+      "permalink": "/learn/v10.15/tutorials/build-app-in-5-minutes/preview-test-app"
+    },
+    "next": {
+      "title": "App Building Essentials",
+      "permalink": "/learn/v10.15/jump-start/jump-start-app-essentials"
+    }
+  }
+}

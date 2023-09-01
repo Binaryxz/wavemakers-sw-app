@@ -1,0 +1,30 @@
+{
+  "unversionedId": "how-tos/customizing-post-authentication-handlers",
+  "id": "version-v10.14/how-tos/customizing-post-authentication-handlers",
+  "title": "Customizing Post Authentication Handlers",
+  "description": "In a Security enabled WaveMaker app, post-authentication the following actions are performed.",
+  "source": "@site/versioned_docs/version-v10.14/how-tos/customizing-post-authentication-handlers.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/customizing-post-authentication-handlers",
+  "permalink": "/learn/v10.15/how-tos/customizing-post-authentication-handlers",
+  "draft": false,
+  "editUrl": "https://github.com/wavemaker/docs/tree/master/learn/versioned_docs/version-v10.14/how-tos/customizing-post-authentication-handlers.md",
+  "tags": [],
+  "version": "v10.14",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Customizing Post Authentication Handlers",
+    "id": "customizing-post-authentication-handlers"
+  },
+  "sidebar": "How to Docs",
+  "previous": {
+    "title": "Multiple Security Provider Implementation",
+    "permalink": "/learn/v10.15/how-tos/multiple-security-provider-implementation"
+  },
+  "next": {
+    "title": "Databases",
+    "permalink": "/learn/v10.15/category/databases-1"
+  }
+}

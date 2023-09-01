@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/learn/v10.15/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Architecture",
+      "permalink": "/learn/v10.15/on-premise/architecture"
+    },
+    "next": {
+      "title": "Enterprise Setup Process",
+      "permalink": "/learn/v10.15/on-premise/getting-started"
+    }
+  }
+}
