@@ -4,7 +4,7 @@ module.exports = {
   "url": "https://github.com/Binaryxz/wavemakers-sw-app.git",
   "baseUrl": "/versioned_docs/version-v10.14",
   "organizationName": "WaveMaker, Inc.",
-  "projectName": "learn",
+  "projectName": "wavemakers-sw-app",
   "markdown": {
     "mermaid": true,
   },
