@@ -1,8 +1,8 @@
 module.exports = {
   "title": "WaveMaker Docs",
   "tagline": "Welcome to the Learning Center",
-  "url": "https://www.wavemaker.com",
-  "baseUrl": "/learn/",
+  "url": "https://github.com/Binaryxz/wavemakers-sw-app.git",
+  "baseUrl": "",
   "organizationName": "WaveMaker, Inc.",
   "projectName": "learn",
   "markdown": {
